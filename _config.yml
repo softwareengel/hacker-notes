@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-repository: softwareengel/Obsidian
-baseurl:  "/Obsidian"
-title: HackerNotes
+repository: softwareengel/hacker-notes
+baseurl:  "/hacker-notes"
+title: Hacker-Notes
 email: 
 # 
 #description: >- # this means to ignore newlines until "baseurl:"
