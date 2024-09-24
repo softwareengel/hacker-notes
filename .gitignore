@@ -1,4 +1,8 @@
-_site
-.sass-cache
-.jekyll-metadata
-Gemfile.lock
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/core-plugins-migration.json
+.obsidian/core-plugins.json
+.obsidian/graph.json
+.obsidian/templates.json
+.obsidian/workspace.json
+/.obsidian

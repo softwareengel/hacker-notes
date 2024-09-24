@@ -1,27 +1,22 @@
-# Minimal Mistakes remote theme starter
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+# Obsidian Git Repo
 
-Contains basic configuration to get you a site with:
+<https://github.com/softwareengel/Obsidian>
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+<https://github.com/softwareengel/Obsidian/actions>
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+Simple Yekyll Web 
 
----
+<https://softwareengel.github.io/Obsidian/>
 
-## Troubleshooting
+## VE JPG 2048x2048
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+![](_asset/README_image_1.png)
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+
+## VE JPG 256x256
+![](_asset/README_image_2.jpg)
+
+## VE Webp
+![](_asset/README_image_3.webp)
+
