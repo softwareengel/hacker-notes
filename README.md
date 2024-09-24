@@ -1,13 +1,13 @@
 
 # Obsidian Git Repo
 
-<https://github.com/softwareengel/Obsidian>
+<https://github.com/softwareengel/hacker-notes>
 
-<https://github.com/softwareengel/Obsidian/actions>
+<https://github.com/softwareengel/hacker-notes/actions>
 
 Simple Yekyll Web 
 
-<https://softwareengel.github.io/Obsidian/>
+<https://softwareengel.github.io/hacker-notes/>
 
 ## VE JPG 2048x2048
 
