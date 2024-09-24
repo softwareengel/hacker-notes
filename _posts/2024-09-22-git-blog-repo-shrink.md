@@ -12,7 +12,7 @@ toc_sticky: true
 
 
 
-## current state
+## Current State
 
 ![](../_asset/2024-09-22-git-blog-repo-shrink_image_1.jpg)
 
