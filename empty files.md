@@ -1,3 +1,0 @@
-- [[_pages/year-archive.md]]
-- [[_pages/tag-archive.md]]
-- [[_pages/category-archive.md]]

@@ -16,6 +16,7 @@
 repository: softwareengel/hacker-notes
 baseurl:  "/hacker-notes"
 title: Hacker-Notes
+title_separator          : "-"
 email: 
 # 
 #description: >- # this means to ignore newlines until "baseurl:"
@@ -31,10 +32,23 @@ twitter_username: softwareengel
 github_username: softwareengel
 minimal_mistakes_skin: default
 search: true
+search_full_content      : # true, false (default)
+search_provider          : # lunr (default), algolia, google
+lunr:
+  search_within_pages    : # true, false (default)
+
+# Analytics
+analytics:
+  provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          :
+    anonymize_ip         : # true, false (default)
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+breadcrumbs              : # true, false (default)
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
