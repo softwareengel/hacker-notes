@@ -14,7 +14,7 @@ toc_sticky: true
 https://afterthebeep.tel/
 
 ![](../_asset/2024-04-03_voicemail_image_1.jpg)
-![](../_asset/image/2024-04-03_voicemail-1727268540206.jpeg)
+![](../_asset/2024-04-03_voicemail-1727268540206.jpeg)
 
 
 
