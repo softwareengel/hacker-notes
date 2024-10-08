@@ -33,7 +33,7 @@ toc_sticky: true
 
 #### Can Machines Think?
 
-![](../_asset/image/2024-09-25-turing-collection-1727279384866.jpeg)
+![](../_asset/2024-09-25-turing-collection-1727279384866.jpeg)
 
 ## New face of the Bank of England's £50 note is revealed as Alan Turing
 
