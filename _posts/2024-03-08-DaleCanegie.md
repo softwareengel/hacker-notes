@@ -58,7 +58,7 @@ Dale Carnegie’s book, “How to Win Friends and Influence People”, was first
 
 12. Throw down a challenge.
 
-**Be a leader**
+## **Be a leader**
 
 1. Begin with praise and honest appreciation.
 

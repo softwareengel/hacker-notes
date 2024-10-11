@@ -110,7 +110,7 @@ engels@DESKTOP-P2OAOQD MINGW64 /c/src/github/Obsidian (main)
 $
 
 ```
-![[Pasted image 20240922134018.png]]
+
 
 
 ```
