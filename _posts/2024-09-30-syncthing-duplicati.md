@@ -1,5 +1,5 @@
 ---
-title: 
+title: Sync & Backup - syncthing-duplicati
 tags:
   - sync
   - backup
