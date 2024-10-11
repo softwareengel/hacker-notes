@@ -1,0 +1,1 @@
+https://github.com/norvig/pytudes/tree/main/ipynb
