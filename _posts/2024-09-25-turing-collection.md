@@ -34,17 +34,17 @@ toc_sticky: true
 #### Can Machines Think?
 
 ![](../_asset/2024-09-25-turing-collection-1727279384866.jpeg)
-
+![](../_asset/2024-09-25-turing-collection_image_2.jpeg)
 ## New face of the Bank of England's £50 note is revealed as Alan Turing
 
-![](../_asset/2024-09-25-turing-collection_image_2.jpeg)
+![](../_asset/2024-09-25-turing-collection_image_3.jpeg)
 
 https://www.bbc.com/news/business-48962557
 
 ## Video Imitation Game
 
-![](../_asset/2024-09-25-turing-collection_image_3.jpeg)
-
 ![](../_asset/2024-09-25-turing-collection_image_4.jpeg)
+
+![](../_asset/2024-09-25-turing-collection_image_5.jpeg)
 
 <https://moviesjoy.is/movie/the-imitation-game-19720>

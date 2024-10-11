@@ -7,13 +7,13 @@ toc_sticky: true
 ---
 
 
-![](../_asset/2024-10-07_image_1.jpeg)
+![](../_asset/2024-10-07-Image-Restoration_image_1.jpeg)
 
 
 
 # Posterior-Mean Rectified Flow: Towards Minimum MSE Photo-Realistic Image Restoration
 
-![](../_asset/2024-10-07_image_2.jpeg)
+![](../_asset/2024-10-07-Image-Restoration_image_2.jpeg)
 
 
 ## Links
