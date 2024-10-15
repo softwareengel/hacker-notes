@@ -1,5 +1,5 @@
 ---
-title: Peter Norwig norwigpytudes
+title: Peter Norwig Pytudes
 tags:
   - Python
   - AI
