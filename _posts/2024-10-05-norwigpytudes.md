@@ -11,7 +11,10 @@ toc_sticky: true
 https://github.com/norvig/pytudes/tree/main/ipynb
 # Peter Norwig Pytudes
 
+
 ![](../_asset/2024-10-05-norwigpytudes_image_1.jpeg)
 
+## Links
 
-https://github.com/norvig/pytudes/tree/main
+
+<https://github.com/norvig/pytudes/tree/main>
