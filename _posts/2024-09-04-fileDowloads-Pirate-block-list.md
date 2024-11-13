@@ -349,3 +349,19 @@ toc_sticky: true
 ### See 
 [2024-09-14-iptv](2024-09-14-iptv.md)
 
+## Linkist
+### audio 
+
+https://sanet.st/full/
+
+https://www.ddlvalley.me/category/music/
+
+https://downtr.cc/music/
+
+## sonst 
+https://www.1377x.to/popular-movies 
+
+https://www.fmovies5.com/movie/transformers-one-2024
+
+## cheats 
+https://cosmocheats.com/

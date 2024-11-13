@@ -1,6 +1,7 @@
 ---
 title: distributed Leger
-tags: 
+tags:
+  - OSS
 date: 2024-11-05
 toc: true
 toc_sticky: true
@@ -10,7 +11,7 @@ toc_sticky: true
 
 ## lfdecentralizedtrust.org
 
-#OSS 
+
 
 alt: 
 https://www.hyperledger.org/
