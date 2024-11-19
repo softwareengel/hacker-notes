@@ -11,8 +11,6 @@ Date: 2023-12-10
 <https://github.com/lxe/simple-llm-finetuner>
 
 
-
-
 ## Mistral 7B
 <https://news.ycombinator.com/item?id=35256769>
 
@@ -25,7 +23,7 @@ Date: 2023-12-10
 ```
 Frage wie ein call Center agent nach den wesentlichen Informationen bei einer Meldung eines Sachschadens
 ```
-![](../_asset/Screenshot_20231210_135443_Kiwi%20Browser.jpg)
+![](../_asset/2023-12-10-simple-llm-finetuner_image_1.jpg)
 <https://huggingface.co/spaces/HuggingFaceH4/zephyr-chat>
 
 ```

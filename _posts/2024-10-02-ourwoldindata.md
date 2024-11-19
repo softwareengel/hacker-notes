@@ -1,6 +1,7 @@
 ---
 title: Energy use per person, 2023 - ourworldindata
-tags: 
+tags:
+  - Data
 date: 2024-10-11
 toc: true
 toc_sticky: true
@@ -14,4 +15,5 @@ toc_sticky: true
 ![](../_asset/2024-10-02-ourwoldindata_image_1.jpeg)
 
 ## Links
-https://ourworldindata.org/energy
+
+<https://ourworldindata.org/energy>
