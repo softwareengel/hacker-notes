@@ -11,7 +11,7 @@ Date: 2024-01-24
 
 # Wordpress-Playground
 
-![](20240124093903wpplay.jpg)
+![](../_asset/2023-09-18-18-30-25-wordpress-playground_image_1.jpg)
 
 <https://wordpress.github.io/wordpress-playground/>
 
@@ -24,7 +24,7 @@ Date: 2024-01-24
 <https://wordpress.github.io/wordpress-playground/build-your-first-app>
 ## start with network - and online themes 
 
-<https://playground.wordpress.net/_?networking=yes_>
+<https://playground.wordpress.net/?networking=yes>
 
 # php - wasm
 
