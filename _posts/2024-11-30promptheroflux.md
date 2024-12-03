@@ -1,1 +1,0 @@
-![](../_asset/Screenshot_20241130_134224_Brave.jpg)
