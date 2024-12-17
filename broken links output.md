@@ -1,5 +1,4 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
-- [[../_asset/2024-10-14-RAG_image_1.jpeg]] in [[_posts/2024-10-14-RAG]]
 - [[../_asset/2024-10-14-RAG_image_2.jpeg]] in [[_posts/2024-10-14-RAG]]
 - [[../_asset/2024-10-14-RAG_image_3.jpeg]] in [[_posts/2024-10-14-RAG]]
 - [[../_asset/2024-10-14-RAG_image_4.jpeg]] in [[_posts/2024-10-14-RAG]]
