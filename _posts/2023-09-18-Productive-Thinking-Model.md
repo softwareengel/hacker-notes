@@ -13,8 +13,8 @@ toc_sticky: true
 
 # Productive Thinking Model
 
-![](../_asset/image/2023-09-18-Productive-Thinking-Model-1734621922453.jpeg)
 
+![](_asset/2023-09-18-Productive-Thinking-Model-202412191636.png)
 
 
 <https://untools.co/productive-thinking-model>
