@@ -15,5 +15,9 @@ toc_sticky: true
 # Neural Network svg
 ![](../_asset/2023-12-05-Neural-network-svg-20241219171715.jpg)
 
+![](../_asset/2023-12-05-Neural-network-svg-20241219171807.jpg)
+
+![](../_asset/2023-12-05-Neural-network-svg-20241219171823.jpg)
+
 
 <https://alexlenail.me/NN-SVG/AlexNet.html>
