@@ -1,3 +1,11 @@
+---
+title: 
+tags: 
+date: 2024-12-19
+toc: true
+toc_sticky: true
+---
+
 
 # Pluckable Strings
 
