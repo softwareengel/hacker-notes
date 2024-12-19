@@ -11,7 +11,9 @@ toc: true
 toc_sticky: true
 ---
 
+
 # Productive Thinking Model
+
 
 
 ![](_asset/2023-09-18-Productive-Thinking-Model-202412191636.png)
