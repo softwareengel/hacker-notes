@@ -12,4 +12,5 @@ toc_sticky: true
 
 
 
-![](../_assets/2024-12-19-obsidian-config-20241219165715.jpg)
+![](../_asset/2024-12-19-obsidian-config-20241219170915.jpg)
+

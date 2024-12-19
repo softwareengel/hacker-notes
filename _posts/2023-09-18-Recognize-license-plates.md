@@ -14,7 +14,7 @@ toc_sticky: true
 # Recognize license plates (and numbers) using fine-tuned yolov8, OCR (tesseract) and Hikvision camera
 
 
-![](../_assets/2023-09-18-Recognize-license-plates-20241219170809.jpg)
+![](../_asset/2023-09-18-Recognize-license-plates-20241219170809.jpg)
 
 
 
