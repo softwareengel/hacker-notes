@@ -14,5 +14,5 @@ toc_sticky: true
 
 ![](../_asset/2024-12-19-stringsound-20241219173609.jpg)
 
-https://string.spiel.com/
+<https://string.spiel.com/>
 
