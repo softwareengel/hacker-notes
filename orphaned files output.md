@@ -553,7 +553,7 @@
 - [[_posts/2024-09-30-llm-costs.md]]
 - [[_posts/2024-04-01_celest.md]]
 - [[_posts/2024-11-09eebscrap.md]]
-- [[_posts/2024-09-01llm.md]]
+- [[_posts/2024-09-01-llm]]
 - [[_posts/2024-07-06-Urlaub.md]]
 - [[_posts/2024-09-22-parasite.md]]
 - [[_posts/2024-07-11-blind.md]]
