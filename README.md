@@ -9,9 +9,14 @@ Simple Yekyll Web
 
 <https://softwareengel.github.io/hacker-notes/>
 
-## VE JPG 2048x2048
+## VE PNG 2048x2048
 
 ![](_asset/README_image_1.png)
+
+## VE JPG 2048x2048
+
+![](_asset/README_image_1.jpg)
+
 
 
 ## VE JPG 256x256
