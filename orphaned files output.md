@@ -289,7 +289,7 @@
 - [[_posts/2023-12-09-PurpleLlama.md]]
 - [[_posts/2024-06-10-PDF.ai.md]]
 - [[_posts/2023-09-18-Flipper-Zero.md]]
-- [[_posts/2024-07-11-rag.md]]
+- [[_posts/2024-07-11-LightragRAG]]
 - [[_posts/2024-10-17faceswap.md]]
 - [[_posts/2024-07-12-consensus.md]]
 - [[_posts/2024-06-30-llmagents.md]]
