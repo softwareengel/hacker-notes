@@ -1,5 +1,5 @@
 - [[2024-12-01phones_Attachments.zip]]
-- [[_asset/2024-10-14-RAG-1733221235805.jpeg]]
+- [[_asset/2024-10-14-RAG-1733221235805.jpeg]] Flux 
 - [[_asset/2024-07-11-rag-1731241243426.jpeg]]
 - [[_asset/2024-10-14-RAG-1733221236227.jpeg]]
 - [[_asset/README_image_1.jpg]]
@@ -283,7 +283,7 @@
 - [[_posts/2023-10-11-RedBlobGames.md]]
 - [[_posts/2024-03-01-Testcontainers.md]]
 - [[_posts/2023-09-18-CryptBoard.md]]
-- [[_posts/2024-12-27.md]]
+- [[_posts/2024-12-27-typedream]]
 - [[_posts/2024-02-08-MermaidLive Editor.md]]
 - [[_posts/2024-08-12osm-tiles-server.md]]
 - [[_posts/2023-12-09-PurpleLlama.md]]
