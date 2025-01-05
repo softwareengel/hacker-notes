@@ -1,4 +1,0 @@
-- [[_posts/2024-11-19.md]]
-- [[_pages/year-archive.md]]
-- [[_pages/tag-archive.md]]
-- [[_pages/category-archive.md]]

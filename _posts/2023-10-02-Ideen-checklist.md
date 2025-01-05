@@ -20,12 +20,12 @@ type: Checklist
 
 - [x] Bade / Schwimm - Poncho
 - [x] Sipgate? Telefon Festnetz 
-- [ ] Zug nach Enschede mit Verena & co
+- [ ] Zug nach Enschede mit Verena & Co
 - [ ] Leasingmarkt.de
 - [x] Koffer, Trolli
 - [ ] Versteigerung Immobilien Website crawler
 - [ ] Klodeckel DG
-- [ ] Wb Movies repo
+- [ ] WB Movies Repo
 
 
 
