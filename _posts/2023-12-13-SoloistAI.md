@@ -1,7 +1,7 @@
 ---
 created: 2023-12-13T08:41:09+01:00
 modified: 2023-12-13T08:42:00+01:00
-title: Solo, an AI website builder for solopreneurs
+title: Solo, an AI website builder for solopreneurs - soloist.ai
 tags:
   - WebUI
   - Builder
