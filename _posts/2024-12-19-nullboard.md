@@ -3,6 +3,7 @@ title: Nullboard
 tags:
   - WebUI
   - kanban
+  - Html
 date: 2025-01-05
 toc: true
 toc_sticky: true
