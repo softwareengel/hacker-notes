@@ -12,5 +12,6 @@ toc_sticky: true
 
 
 ![](../_asset/2023-09-18-Productive-Thinking-Model-20250105133045.jpg)
+## Links 
 
 <https://untools.co/productive-thinking-model>
