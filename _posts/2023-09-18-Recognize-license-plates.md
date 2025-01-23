@@ -4,7 +4,7 @@ modified: 2023-09-18T18:38:04+02:00
 title: Recognize license plates
 tags:
   - ocr
-  - Ml
+  - ML
   - yolo
   - tesseract
 date: 2024-12-29

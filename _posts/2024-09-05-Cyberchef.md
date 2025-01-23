@@ -43,6 +43,13 @@ For those comfortable writing code, CyberChef is a quick and efficient way to pr
 https://gchq.github.io/CyberChef/#input=ZHNmYXNkZmFzZGY
 
 ![](../_asset/2024-09-05-Cyberchef_image_1.jpg)
+
+
+
+![](../_asset/2024-09-05-Cyberchef-20250123225453.jpg)
+
+https://gchq.github.io/CyberChef/
+
 ## Links
 
 <https://github.com/gchq/CyberChef>
