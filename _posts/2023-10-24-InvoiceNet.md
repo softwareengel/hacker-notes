@@ -5,7 +5,7 @@ title: InvoiceNet
 tags:
   - DNN
   - AI
-  - Ml
+  - ML
   - Python
 Date: 2024-02-05
 ---
