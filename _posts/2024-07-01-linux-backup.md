@@ -22,7 +22,7 @@ apt install borgbackup
 
 
 ```
-## GUI für Borg: Vorter 
+## GUI für Borg: Vorta
 
 ![](../_asset/2024-07-01-linux-backup_image_2.jpg)
 
