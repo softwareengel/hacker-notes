@@ -26,7 +26,6 @@ apt install borgbackup
 
 ![](../_asset/2024-07-01-linux-backup_image_2.jpg)
 
-``
 
 ```
 sudo apt install vorta
@@ -40,4 +39,4 @@ https://borgbackup.readthedocs.io/en/latest/installation.html
 
 https://vorta.borgbase.com/
 https://linuxnews.de/borg-backup-mit-vorta/
-https://linux-bibel.at/index.php/2024/01/20/vorta-komfortable-gui-fuer-borgbackup/
+https://linux-bibel.atexit/index.php/2024/01/20/vorta-komfortable-gui-fuer-borgbackup/
