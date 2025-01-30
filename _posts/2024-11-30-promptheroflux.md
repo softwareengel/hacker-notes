@@ -5,6 +5,7 @@ tags:
   - prompt
   - GenAI
   - 3d
+  - galery
 date: 2024-12-03
 toc: true
 toc_sticky: true
