@@ -2,10 +2,11 @@
 created: 2023-09-18T18:18:57+02:00
 modified: 2023-09-18T18:20:29+02:00
 title: How the most successful B2B startups came up with their original idea
-title: How the most successful B2B startups came up with their original idea
 tags:
   - ideation
   - startups
+  - b2b
+  - businnessModel
 Date: 2024-01-24
 ---
 

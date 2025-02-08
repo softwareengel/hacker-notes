@@ -16,7 +16,7 @@ Date: 2023-09-18
 
 Open-source under MIT
 
-![](2023-09-18-18-31-45_Puckeditor_image_1.jpg)
+![](../_asset/2023-09-18-18-31-45_Puckeditor_image_1.jpg)
 ## The visual editor for React
 
 Puck empowers developers to build amazing visual editing experiences into their own React applications, powering the next generation of content tools, no-code builders and WYSIWYG editors.
