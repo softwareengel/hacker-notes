@@ -11,4 +11,7 @@ toc_sticky: true
 
 # Project management tool from the future
 
+![](../_asset/2023-09-18-Project-management-tool-from-the-future-20250212115432.jpg)
+
+## Link 
 <https://plane.so/>
