@@ -20,3 +20,16 @@ toc_sticky: true
 ![](../_asset/2025-04-02-notebookLLM-20250402130032.jpg)
 
 ![](../_asset/2025-04-02-notebookLLM-20250402130058.jpg)
+
+
+## Neu mit Mindmap
+![](../_asset/2025-04-02-notebookLLM-20250402130522.jpg)
+
+
+![](../_asset/2025-04-02-notebookLLM-20250402130545.jpg)
+![](../_asset/2025-04-02-notebookLLM-20250402130557.jpg)
+
+![](../_asset/2025-04-02-notebookLLM-20250402130635.jpg)
+
+
+![](../_asset/2025-04-02-notebookLLM-20250402130717.jpg)
