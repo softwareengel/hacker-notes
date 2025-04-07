@@ -19,7 +19,7 @@ toc_sticky: true
 
 ![](../_asset/2025-01-10-genai-spam-quality-Check-20250110113720.jpg)
 
-## Analyse Mail 3 Verschiende Emails 
+## Analyse Mail 3 Verschiedene Emails 
 
 ![](../_asset/2025-01-10-genai-spam-quality-Check-20250110113942.jpg)
 
