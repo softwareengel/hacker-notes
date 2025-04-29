@@ -1,5 +1,5 @@
 ---
-title: notebookLM
+title: notebookLLM
 tags:
   - LLM
   - Google
@@ -11,20 +11,7 @@ toc_sticky: true
 
 
 
-# NotebookLM
-![](../_asset/2025-04-02-notebookLLM-20250427210125.jpg)
-
-# Smarter und effizienter arbeiten
-
-Das ultimative Tool, um relevante Einblicke zu gewinnen – mit Gemini 2.0
-
-![](../_asset/2025-04-02-notebookLLM-20250427210020.jpg)
-
-![](../_asset/2025-04-02-notebookLLM-20250427210231.jpg)
-
-
-# Beispiele 
-
+# notebookLLM
 ## Softwareengel Web-Seite 
 ![](../_asset/2025-04-02-notebookLLM-20250402125928.jpg)
 ![](../_asset/2025-04-02-notebookLLM-20250402125945.jpg)
@@ -46,9 +33,3 @@ Das ultimative Tool, um relevante Einblicke zu gewinnen – mit Gemini 2.0
 
 
 ![](../_asset/2025-04-02-notebookLLM-20250402130717.jpg)
-
-## Links 
-
-<https://notebooklm.google/>
-
-
