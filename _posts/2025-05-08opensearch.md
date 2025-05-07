@@ -1,0 +1,1 @@
+https://opensearch.org/blog/opensearch-3-0-enhances-vector-database-performance/
