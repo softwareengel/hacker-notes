@@ -1,5 +1,5 @@
 ---
-title: Streamlit
+title: 
 tags: 
 date: 2025-03-27
 toc: true
@@ -29,5 +29,3 @@ Streamlit lets you transform Python scripts into interactive web apps in minutes
 - **Open-source and free:** Join a vibrant community and contribute to Streamlit's future.
 
 https://github.com/streamlit/streamlit
-
-![](../_asset/2025-03-27-streamlit-20250427210540.jpg)
