@@ -1,4 +1,4 @@
-Kmu erp
+KMU ERP 
 Schulbus Plattform 
-Nicht Evolution sondern revioution
+Nicht Evolution sondern Revoution
 Strukturieren Organisatieren
