@@ -7,7 +7,7 @@ date: 2025-09-25
 toc: true
 toc_sticky: true
 ---
-sy
+
 # Prompts 
 
 ## Tutorials 
