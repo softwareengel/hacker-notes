@@ -319,20 +319,25 @@ _ Nach einem kurzen Vokal/ Umlaut steht meist ein tz. : Mütze , Satz_
 ![](../_asset/2025-10-03-geminiPromptsK4Lernassistent-20251003223156.jpg)
 
 
-https://gemini.google.com/gem/15oh9i_K685LdyNBh_kljW-FLaM9Df6-H?usp=sharing
+<https://gemini.google.com/gem/15oh9i_K685LdyNBh_kljW-FLaM9Df6-H?usp=sharing>
 
-https://gemini.google.com/gem/12OlU4UHecrYJ8Jx17EdkmmT3qbdaQpSl?usp=sharing
+<https://gemini.google.com/gem/12OlU4UHecrYJ8Jx17EdkmmT3qbdaQpSl?usp=sharing>
 
-https://gemini.google.com/gem/1x0EmPJk5PsBMNL9UHra2xVCZeYyF8L2O?usp=sharing
+<https://gemini.google.com/gem/1x0EmPJk5PsBMNL9UHra2xVCZeYyF8L2O?usp=sharing>
 
-https://gemini.google.com/gem/1WtyjCpNNktqYEDK_Qs5cNnkLc-W1Qjfp?usp=sharing
+<https://gemini.google.com/gem/1WtyjCpNNktqYEDK_Qs5cNnkLc-W1Qjfp?usp=sharing>
 
-https://gemini.google.com/gem/1ZEdRyQ24Gq8DyILZr0G9wf84oIDBVFH0?usp=sharing
 
-https://gemini.google.com/gem/13isl4y8Ke-ioNHgWwVtIlqAOZw7Cf4ez?usp=sharing
+<https://gemini.google.com/gem/1ZEdRyQ24Gq8DyILZr0G9wf84oIDBVFH0?usp=sharing>
 
-https://gemini.google.com/gem/1006l0RA_LF9lWzJFe7TFTUhS5lHwYer_?usp=sharing
+<https://gemini.google.com/gem/13isl4y8Ke-ioNHgWwVtIlqAOZw7Cf4ez?usp=sharing>
 
-https://gemini.google.com/gem/1Vj2bNqV7oJSkRGbOKYiwk4rRpHY9rUD2?usp=sharing
 
-https://gemini.google.com/gem/1hZL6y_M7Su-cbSpbgH3aZNIpBBI6ySDf?usp=sharing
+<https://gemini.google.com/gem/1006l0RA_LF9lWzJFe7TFTUhS5lHwYer_?usp=sharing>
+
+
+<https://gemini.google.com/gem/1Vj2bNqV7oJSkRGbOKYiwk4rRpHY9rUD2?usp=sharing>
+
+
+<https://gemini.google.com/gem/1hZL6y_M7Su-cbSpbgH3aZNIpBBI6ySDf?usp=sharing>
+
