@@ -11,7 +11,7 @@ toc_sticky: true
 
 ## Nomen
 
-## Zusammangestzte Nomen
+## Zusammengesetzte Nomen
 _
 **Zusammengesetzte Nomen (Substantive)**
 
