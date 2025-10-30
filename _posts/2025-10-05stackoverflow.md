@@ -1,0 +1,1 @@
+https://newsletter.pragmaticengineer.com/p/the-pulse-134
