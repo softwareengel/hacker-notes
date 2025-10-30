@@ -64,3 +64,6 @@ docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-
 
 ```
 
+## Refs
+
+![](../_asset/2025-10-30-open-webui-20251030104442.jpg)
