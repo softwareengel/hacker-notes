@@ -1,0 +1,3 @@
+As our use of LLMs has changed from conversational chatbots and into integral decision-making components of complex systems, our inference approach must also evolve. The practice of "prompt engineering", in which precise wording is submitted to the LLM to elicit desired responses, has serious limitations. And so this is giving way to a more general practice of considering every token fed into the LLM in a way that is more dynamic, targeted, and deliberate. This expanded, more structured practice is what we now call "context engineering."
+
+https://chrisloy.dev/post/2025/08/03/context-engineering
