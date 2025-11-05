@@ -18,7 +18,7 @@ toc_sticky: true
 
 
 
-## DL Rapi OS, ssh, user 
+## DL Raspi OS, ssh, user 
 
 https://downloads.raspberrypi.com/raspios_arm64/release_notes.txt
 - add ssh :- on sd card add file ssh with 0 Bytes 
@@ -63,6 +63,23 @@ docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-
 
 
 ```
+## cloudflaird
+sudo tee /etc/cloudflared/config.yml > /dev/null <<'EOF'
+
+tunnel: 3b67c0c7-75a3-4fd3-936b-3b880d9df726
+
+credentials-file: /home/pi/.cloudflared/3b67c0c7-75a3-4fd3-936b-3b880d9df726.json
+
+ingress:
+
+  - hostname: open-webui.turinginstitut.bid
+
+    service: http://localhost:3000
+
+  - service: http_status:404
+
+EOF
+
 
 ## Refs
 
