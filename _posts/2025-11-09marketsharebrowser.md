@@ -1,0 +1,1 @@
+https://gs.statcounter.com/browser-market-share
