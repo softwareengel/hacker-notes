@@ -11,7 +11,10 @@ toc_sticky: true
 
 # gemini-banana
 
+```
+
 erstelle bild von angela merkel im stile von sen simpsons 
+```
 
 
-![](../_asset/2025-12-13-gemeini-banana-20251213104628.jpg)
+![](../_asset/2025-12-13-gemini-banana-20251213104628.jpg)
