@@ -229,7 +229,8 @@ Wichtig:
 ```
 
 
-## Hardware REchenknecht 
+## Hardware Rechenknecht 
+
 ![](../_asset/2025-12-22-LLM-DIY-Perfomance-20251222101657.jpg)
 
 ![](../_asset/2025-12-22-LLM-DIY-Perfomance-20251222101728.jpg)
