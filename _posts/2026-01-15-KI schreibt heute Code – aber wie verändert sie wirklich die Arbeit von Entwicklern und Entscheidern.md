@@ -71,7 +71,7 @@ Wer sich fundiert damit auseinandersetzen will, braucht **echte Use Cases, klare
 
 ## Notes
 
-Kein Geheimnis - Der Problem -Solution - Fit kommt von mit, alles andere haben die Assistenten 
+Kein Geheimnis - Der Problem -Solution - Fit kommt von mir, alles andere haben die Assistenten 
 gemacht ;-) 
 
 
