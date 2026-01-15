@@ -65,6 +65,21 @@ Wer sich fundiert damit auseinandersetzen will, braucht **echte Use Cases, klare
 
 
 
+## Folien
+![](../_asset/Folie2␣1.png)
+
+
+
+![](../_asset/Folie3␣1.png)
+
+
+![](../_asset/Folie4␣1.png)
+
+
+![](../_asset/Folie5␣1.png)
+
+
+
 ![](../_asset/2026-01-15-Softwareengel-KI-Update-Software-Engineering.pdf)
 
 
