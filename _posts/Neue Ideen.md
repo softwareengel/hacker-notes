@@ -1,4 +1,4 @@
 KMU ERP 
 Schulbus Plattform 
-Nicht Evolution sondern Revoution
-Strukturieren Organisatieren
+Nicht Evolution sondern Revolution
+Strukturieren Organisieren
