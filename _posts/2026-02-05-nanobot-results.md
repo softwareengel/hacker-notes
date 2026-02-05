@@ -145,10 +145,11 @@ nanobot onboard
 
 
 ## tests
-```
-  nanobot gateway
-  nanobot agent
-  nanobot status
+``` bash
+
+nanobot gateway
+nanobot agent
+nanobot status
 nanobot channels status
 
 ```
@@ -178,6 +179,21 @@ nanobot channels status
 
 
 ![](../_asset/2026-02-05-nanobot-results-1770330035804.webp)
+
+![](../_asset/2026-02-05-nanobot-results-1770330269206.webp)
+
+
+### numbers 
+![](../_asset/2026-02-05-nanobot-results-1770330620524.webp)
+
+![](../_asset/2026-02-05-nanobot-results-1770330662613.webp)
+
+![](../_asset/2026-02-05-nanobot-results-1770330790427.webp)
+![](../_asset/2026-02-05-nanobot-results-1770330956697.webp)
+
+![](../_asset/2026-02-05-nanobot-results-1770330970295.webp)
+
+![](../_asset/2026-02-05-nanobot-results-1770330983546.webp)
 
 ## Links 
 
