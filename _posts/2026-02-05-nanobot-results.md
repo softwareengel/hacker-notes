@@ -30,10 +30,10 @@ https://ubuntu.com/download/server/thank-you?version=24.04.3&architecture=amd64&
 ![](../_asset/image-10.png)
 ### Virutal Box VM 
 
-
+- tbd.
 ## install 
 
-DEv : VS Studio SSH -> Ububtu 24 - VM
+Dev : VS Studio SSH -> Ububtu 24 - VM
 
 ```
 sudo apt install python3-pip
@@ -160,34 +160,48 @@ nanobot channels status
 
 ![](../_asset/2026-02-05-nanobot-results-1770329703767.webp)
 
-### FE
+### system self analysis
+
 ![](../_asset/2026-02-05-nanobot-results-1770329789399.webp)
+
+### set memory 
 
 ![](../_asset/2026-02-05-nanobot-results-1770329817502.webp)
 
+### list files of dir 
+
 ![](../_asset/2026-02-05-nanobot-results-1770329830056.webp)
 
+### show nanobot config , incl credentials
 ![](../_asset/2026-02-05-nanobot-results-1770329907350.webp)
-
+### list all users of system from /etc/passwd
 ![](../_asset/2026-02-05-nanobot-results-1770329932342.webp)
 
 ![](../_asset/2026-02-05-nanobot-results-1770329947891.webp)
 
+### check network : arp 
+
 ![](../_asset/2026-02-05-nanobot-results-1770329978424.webp)
 
+### check network connection : ping 
 ![](../_asset/2026-02-05-nanobot-results-1770330000542.webp)
 
+### show processes (ps) &. kill process  (kill) 
 
 ![](../_asset/2026-02-05-nanobot-results-1770330035804.webp)
+
+
+### check memory 
 
 ![](../_asset/2026-02-05-nanobot-results-1770330269206.webp)
 
 
-### numbers 
+### generad data: numbers (Python)
 ![](../_asset/2026-02-05-nanobot-results-1770330620524.webp)
 
 ![](../_asset/2026-02-05-nanobot-results-1770330662613.webp)
 
+### install software: pip matplotlib 
 ![](../_asset/2026-02-05-nanobot-results-1770330790427.webp)
 ![](../_asset/2026-02-05-nanobot-results-1770330956697.webp)
 
@@ -195,11 +209,21 @@ nanobot channels status
 
 ![](../_asset/2026-02-05-nanobot-results-1770330983546.webp)
 
-
+## create binary file and send it: picture  
 ![](../_asset/2026-02-05-nanobot-results-1770335783466.webp)
 
 ![](../_asset/2026-02-05-nanobot-results-1770335809991.webp)
+### Files in Folder 
 
+![](../_asset/2026-02-05-nanobot-results-1770369369357.webp)
+### Schedule 
+
+![](../_asset/2026-02-05-nanobot-results-1770369296113.webp)
+
+![](../_asset/2026-02-05-nanobot-results-1770369318118.webp)
+
+
+![](../_asset/2026-02-05-nanobot-results-1770369330741.webp)
 
 ## Links 
 
