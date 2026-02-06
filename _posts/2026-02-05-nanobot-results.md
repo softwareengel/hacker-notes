@@ -6,6 +6,7 @@ date: 2026-02-05
 toc: true
 toc_sticky: true
 ---
+![](../_asset/2026-02-05-nanobot-results-1770329817502.webp)
 
 # nanobot-results 
 
@@ -224,6 +225,12 @@ nanobot channels status
 
 
 ![](../_asset/2026-02-05-nanobot-results-1770369330741.webp)
+
+## Python files and LOC 
+
+![](../_asset/2026-02-05-nanobot-results-1770370524148.webp)
+
+![](../_asset/2026-02-05-nanobot-results-1770370613364.webp)
 
 ## Links 
 
