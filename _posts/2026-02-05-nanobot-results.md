@@ -11,12 +11,13 @@ toc_sticky: true
 # nanobot-results 
 
 ## Ziel 
-- Chat with System via Telegram 
+- Chat with Nanobot - System via Telegram 
 - execute commands 
 - search files - show file content 
 - show user 
 - show processes 
 - kill process
+- create files, send files 
 
 
 ## setup 
