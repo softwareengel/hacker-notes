@@ -195,6 +195,12 @@ nanobot channels status
 
 ![](../_asset/2026-02-05-nanobot-results-1770330983546.webp)
 
+
+![](../_asset/2026-02-05-nanobot-results-1770335783466.webp)
+
+![](../_asset/2026-02-05-nanobot-results-1770335809991.webp)
+
+
 ## Links 
 
 https://github.com/HKUDS/nanobot/issues/74
