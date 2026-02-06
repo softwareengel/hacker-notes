@@ -42,6 +42,8 @@ sudo apt install python3-pip
 pip install -e .
 nanobot onboard
 
+
+
 ```
 ## config
 ``` json 
@@ -106,6 +108,8 @@ nanobot gateway
 nanobot agent
 nanobot status
 nanobot channels status
+
+python -m nanobot gateway --verbose
 
 ```
 
