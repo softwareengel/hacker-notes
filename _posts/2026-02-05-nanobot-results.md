@@ -46,99 +46,52 @@ nanobot onboard
 ## config
 ``` json 
 {
-
   "agents": {
-
     "defaults": {
-
       "workspace": "~/.nanobot/workspace",
-
       "model": "openai/gpt-oss-20b",
-
        "maxTokens": 8192,
-
        "temperature": 0.7,
-
        "maxToolIterations": 20
-
     }
-
   },
-
   "channels": {
-
     "whatsapp": {
-
       "enabled": false,
-
       "bridgeUrl": "ws://localhost:3001",
-
       "allowFrom": []
-
     },
-
     "telegram": {
-
       "enabled": true,
-
       "token": "842973361--------------3N01H4aWHmoS0",
-
       "allowFrom": ["softwareengel"],
-
       "proxy": null
-
     }
-
-  
-
   },
-
   "providers": {
-
-  
-
     "vllm": {
-
       "apiKey": "dummy",
-
       "apiBase": "http://10.10.10.28:1234/v1"
-
     }
 
   },
 
   "gateway": {
-
     "host": "0.0.0.0",
-
     "port": 18790
-
   },
-
   "tools": {
-
     "web": {
-
       "search": {
-
         "apiKey": "wswsw",
-
         "maxResults": 5
-
       }
-
     },
-
     "exec": {
-
       "timeout": 60,
-
       "restrictToWorkspace": false
-
     }
-
   }
-
 }
 ```
 
