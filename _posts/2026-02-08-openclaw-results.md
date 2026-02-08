@@ -45,7 +45,7 @@ pnpm openclaw status
 cd /home/ve/src/github/openclaw && pnpm openclaw config set logging.level trace
 pnpm openclaw gateway stop
 pnpm openclaw gateway start
-
+pnpm openclaw gateway --verbose --raw-stream --ws-log full
 
 ```
 
