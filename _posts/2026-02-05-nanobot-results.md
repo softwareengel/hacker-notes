@@ -40,6 +40,7 @@ Dev : VS Studio SSH -> Ububtu 24 - VM
 ```
 sudo apt install python3-pip
 pip install -e .
+cd /home/ve/src/github/nanobot && source nanobot/bin/activate
 nanobot onboard
 
 
@@ -109,6 +110,7 @@ nanobot agent
 nanobot status
 nanobot channels status
 
+cd /home/ve/src/github/nanobot && source nanobot/bin/activate
 python -m nanobot gateway --verbose
 
 ```
