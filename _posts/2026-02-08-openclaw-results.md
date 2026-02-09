@@ -131,7 +131,8 @@ pnpm openclaw gateway --verbose --raw-stream --ws-log full
 ## Links
 
 https://github.com/openclaw/openclaw
-
+- Reduce Token 
+https://docs.google.com/document/d/1ffmZEfT7aenfAz2lkjyHsQIlYRWFpGcM/preview?rtpof=true&sd=true&pru=AAABnGgbDU4*jowhBQdRXtm1sdkPa8_HOg 
 
 # Logs 
 

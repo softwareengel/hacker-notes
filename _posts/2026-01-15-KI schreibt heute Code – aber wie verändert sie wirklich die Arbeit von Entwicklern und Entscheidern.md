@@ -267,4 +267,5 @@ Wenn du willst, kann ich:
 - ihn **stärker auf Management oder Entwickler zuschneiden**
     
 - oder eine **Artikelserie (3–4 Posts)** daraus machen
+
 „KI schreibt heute Code – aber wie verändert sie wirklich die Arbeit von Entwicklern und Entscheidern?“
