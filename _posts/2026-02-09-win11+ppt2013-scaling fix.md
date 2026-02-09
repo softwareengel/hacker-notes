@@ -1,4 +1,16 @@
+---
+title: win11+ppt2013-scaling fix
+tags:
+  - win11
+  - ui
+  - office
+date: 2026-02-09
+toc: true
+toc_sticky: true
+---
 
+
+# win11+ppt2013-scaling fix working 
 
 ## The Problem 
 - ribbons and layout to huge 
