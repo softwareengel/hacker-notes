@@ -1,6 +1,9 @@
 ---
 title: openclaw results
 tags:
+  - openclaw
+  - AI
+  - Agent
 date: 2026-02-08
 toc: true
 toc_sticky: true
