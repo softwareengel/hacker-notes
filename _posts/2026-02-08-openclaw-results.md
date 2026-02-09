@@ -4,6 +4,7 @@ tags:
   - openclaw
   - AI
   - Agent
+  - bots
 date: 2026-02-08
 toc: true
 toc_sticky: true
