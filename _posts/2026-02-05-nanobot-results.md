@@ -39,12 +39,50 @@ Dev : VS Studio SSH -> Ububtu 24 - VM
 
 ```
 sudo apt install python3-pip
+
+cd /home/ve/src/github/nanobot
+python3 -m venv .venv
+source .venv/bin/activate
+
 pip install -e .
 cd /home/ve/src/github/nanobot && source nanobot/bin/activate
 nanobot onboard
+```
 
+## install systemd service 
 
+File: nanobot.service
 
+```
+[Unit]
+Description=Nanobot Service
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/ve/src/github/nanobot
+ExecStart=/home/ve/src/github/nanobot/.venv/bin/nanobot gateway --verbose
+Restart=always
+RestartSec=5
+KillMode=process
+Environment=HOME=/home/ve
+Environment="PATH=/home/ve/src/github/nanobot/.venv/bin:/home/ve/.nvm/current/bin:/home/ve/.local/bin:/usr/local/bin:/usr/bin:/bin"
+Environment="VIRTUAL_ENV=/home/ve/src/github/nanobot/.venv"
+
+[Install]
+WantedBy=default.target
+
+```
+
+```
+systemctl --user daemon-reload
+systemctl --user enable nanobot.service
+systemctl --user start nanobot.service
+systemctl --user status nanobot.service
+ps aux | grep -i nanobot | grep -v grep
+journalctl --user -u nanobot.service -n 30 --no-pager
+journalctl --user -u nanobot.service -f
 ```
 ## config
 ``` json 
@@ -111,7 +149,7 @@ nanobot status
 nanobot channels status
 
 cd /home/ve/src/github/nanobot && source nanobot/bin/activate
-python -m nanobot gateway --verbose
+python 
 
 ```
 
