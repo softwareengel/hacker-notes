@@ -1,6 +1,8 @@
 ---
-title: 
-tags: 
+title: think-before-coidng
+tags:
+  - ClaudeAI
+  - LLM-Coding
 date: 2026-02-13
 toc: true
 toc_sticky: true
