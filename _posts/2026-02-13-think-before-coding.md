@@ -8,8 +8,8 @@ toc: true
 toc_sticky: true
 ---
 
-#  65 lines of Markdown - a Claude Code sensation
-## 65 lines of Markdown - a Claude Code sensation
+# 65 lines of Markdown - a Claude Code sensation
+
 
 published on 2026-02-12 · tagged with [#ai](https://tildeweb.nl/~michiel/tags/ai.html), [#code](https://tildeweb.nl/~michiel/tags/code.html) and [#cursor](https://tildeweb.nl/~michiel/tags/cursor.html)
 

@@ -1,12 +1,14 @@
 ---
-title: 
-tags: 
+title: openai-tools
+tags:
+  - openai
 date: 2026-02-14
 toc: true
 toc_sticky: true
 ---
 
-# 
+# openai-tools
+
 ![](../_asset/2026-02-14-openai-tools-1771065589304.webp)
 
 ![](../_asset/2026-02-14-openai-tools-1771065629467.webp)
