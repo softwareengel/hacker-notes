@@ -1,8 +1,9 @@
 # openclaw 
 
 
-## Log 1 
+## Log  - Ringeltaube 
 
+![](./FireShot%20Capture%20020%20-%20OpenClaw%20Control%20-%20[127.0.0.1].webp)
 ## Log 
 
 ![](../_asset/2026-02-14-openclaw-log-example-1771067525473.webp)
