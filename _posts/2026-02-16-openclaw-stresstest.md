@@ -13,6 +13,9 @@ toc_sticky: true
 
 ![](../_asset/2026-02-16-openclaw-stresstest-1771251489930.webp)
 
+
+![](../_asset/2026-02-16-openclaw-stresstest-1771252308709.webp)
+
 ![](../_asset/2026-02-16-openclaw-stresstest-1771251507434.webp)
 
 ![](../_asset/2026-02-16-openclaw-stresstest-1771251587492.webp)
