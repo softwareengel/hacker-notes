@@ -1,5 +1,5 @@
 ---
-title: " Santionen und Souveränität"
+title: " Sanktionen und Souveränität"
 tags:
   - Souveränität
   - digitalisation
@@ -8,8 +8,7 @@ toc: true
 toc_sticky: true
 ---
 
-
-# # Santionen und Souveränität
+# # Sanktionen und Souveränität
 
 
 
