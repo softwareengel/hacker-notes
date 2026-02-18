@@ -6,7 +6,8 @@ toc: true
 toc_sticky: true
 ---
 
-# 
+# cmd history openclaw und nanobot VM
+
 
 ## History
 
