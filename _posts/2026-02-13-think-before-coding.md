@@ -1,5 +1,5 @@
 ---
-title: think-before-coidng
+title: think-before-coding
 tags:
   - ClaudeAI
   - LLM-Coding
