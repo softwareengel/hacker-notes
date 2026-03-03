@@ -15,3 +15,9 @@ https://torrentfreak.com/annas-archive-loses-li-domain-as-legal-pressure-mounts/
 _**Update:** shortly after publication, the Anna’s Archive website lists .vg,.pk, and .gd as new alternative domains._
 
 https://annas-archive.vg/ 
+
+
+## check your DNS
+
+
+https://www.dnsleaktest.com/results.html
