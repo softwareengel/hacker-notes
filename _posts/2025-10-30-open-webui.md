@@ -19,11 +19,7 @@ toc_sticky: true
 
 ## DL Raspi OS, ssh, user 
 
-<<<<<<< .mine
 
-=======
-
->>>>>>> .theirs
 https://downloads.raspberrypi.com/raspios_arm64/release_notes.txt
 - add ssh :- on sd card add file ssh with 0 Bytes 
 - add user pi with pwd raspi: add file userconf.txt on sd card with 
@@ -63,11 +59,13 @@ docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-
 
 ```
 ## cloudflaird
+```
 sudo tee /etc/cloudflared/config.yml > /dev/null <<'EOF'
-
+```
 
 ## install cloudflair 
 # 1. Cloudflared auf Raspberry Pi installieren
+```
 
 wget https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-arm64
 
@@ -104,6 +102,7 @@ Created tunnel open-webui-raspi with id 3b67c0c7-75a3-4fd3-936b-3b880d9df726
 	sudo nano /etc/cloudflared/config.yml
 	
 
+```
 
 ## Refs
 
