@@ -59,15 +59,22 @@ docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-
 
 ```
 ## cloudflaird
+<<<<<<< HEAD
 
 ```
 
 sudo tee /etc/cloudflared/config.yml > /dev/null <<'EOF'
 ```
 
+=======
+```
+sudo tee /etc/cloudflared/config.yml > /dev/null <<'EOF'
+```
+>>>>>>> origin/master
 
 ## Install Cloudflair 
 # 1. Cloudflared auf Raspberry Pi installieren
+```
 
 wget https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-arm64
 
@@ -104,6 +111,7 @@ Created tunnel open-webui-raspi with id 3b67c0c7-75a3-4fd3-936b-3b880d9df726
 	sudo nano /etc/cloudflared/config.yml
 	
 
+```
 
 ## Refs
 
