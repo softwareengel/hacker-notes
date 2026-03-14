@@ -19,11 +19,7 @@ toc_sticky: true
 
 ## DL Raspi OS, ssh, user 
 
-<<<<<<< .mine
 
-=======
-
->>>>>>> .theirs
 https://downloads.raspberrypi.com/raspios_arm64/release_notes.txt
 - add ssh :- on sd card add file ssh with 0 Bytes 
 - add user pi with pwd raspi: add file userconf.txt on sd card with 
@@ -63,10 +59,14 @@ docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-
 
 ```
 ## cloudflaird
+
+```
+
 sudo tee /etc/cloudflared/config.yml > /dev/null <<'EOF'
+```
 
 
-## install cloudflair 
+## Install Cloudflair 
 # 1. Cloudflared auf Raspberry Pi installieren
 
 wget https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-arm64
