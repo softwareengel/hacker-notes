@@ -1,5 +1,5 @@
 ---
-title:
+title: Experiments with Google Gemma 4
 tags:
   - Diy
   - local-first
@@ -14,7 +14,12 @@ toc_sticky: true
 
 ## BPMN Analyse 
 
-![](../_asset/2026-04-08-GOOGLE-GEMMA-4-20260408173423.jpg)
+![](../_asset/2026-04-08-google-gemma-4-20260408173423.jpg)
+
+
+google/gemma-4-26b-a4b
+
+Nachgedacht für 30 Sekunden
 
 Das vorliegende BPMN-Diagramm (Business Process Model and Notation) beschreibt einen standardisierten **Bestellprozess**, der über drei verschiedene Abteilungen bzw. Verantwortungsbereiche (**Lanes**) hinweg abläuft: **Vertrieb**, **Logistik** und **Buchhaltung**.
 
@@ -72,7 +77,7 @@ Ein solides Standardmodell für einen Order-to-Cash-Prozess, das die Kernschritt
 
 ## ER Modell Analyse
 
-![](../_asset/2026-04-08-GOOGLE-GEMMA-4-20260408173528.jpg)
+![](../_asset/2026-04-08-google-gemma-4-20260408173528.jpg)
 <details type="reasoning" done="true" duration="25">
 <summary>Thought for 25 seconds</summary>
 &gt; An Entity-Relationship (ER) Diagram (in German).
