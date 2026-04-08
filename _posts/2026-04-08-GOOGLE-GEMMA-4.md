@@ -14,6 +14,8 @@ toc_sticky: true
 
 ## BPMN Analyse 
 
+![](../_asset/2026-04-08-google-gemma-4-20260408175922.jpg)
+
 
 ![2026-04-08-google-gemma-4-20260408173423](../_asset/2026-04-08-google-gemma-4-20260408173423.jpg)
 
