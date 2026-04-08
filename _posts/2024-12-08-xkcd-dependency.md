@@ -11,6 +11,6 @@ toc_sticky: true
 
 
 
-![](../_asset/Screenshot_20241208_222021_Kiwi%20Browser.jpg)
+![](../_asset/file-20260408185804789.jpg)
 
 <https://www.xkcd.com/2347/>
