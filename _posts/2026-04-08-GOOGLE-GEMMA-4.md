@@ -14,7 +14,8 @@ toc_sticky: true
 
 ## BPMN Analyse 
 
-![](../_asset/2026-04-08-google-gemma-4-20260408173423.jpg)
+
+![2026-04-08-google-gemma-4-20260408173423](../_asset/2026-04-08-google-gemma-4-20260408173423.jpg)
 
 
 google/gemma-4-26b-a4b
@@ -76,6 +77,8 @@ Der Prozess ist in drei funktionale Ebenen unterteilt, was auf eine klare Trennu
 Ein solides Standardmodell für einen Order-to-Cash-Prozess, das die Kernschritte (Prüfung $\rightarrow$ Beschaffung $\rightarrow$ Versand $\rightarrow$ Abrechnung) gut abbildet, aber bei den logischen Verzweigungen (Expressversand) und der Prozessverknüpfung zur Buchhaltung vereinfacht dargestellt ist.
 
 ## ER Modell Analyse
+![2026-04-08-google-gemma-4-20260408173528](../_asset/2026-04-08-google-gemma-4-20260408173528.jpg)
+
 
 ![](../_asset/2026-04-08-google-gemma-4-20260408173528.jpg)
 <details type="reasoning" done="true" duration="25">
