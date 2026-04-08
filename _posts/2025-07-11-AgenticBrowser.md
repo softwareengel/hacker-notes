@@ -19,4 +19,4 @@ https://www.browseros.com/
 
 https://github.com/browseros-ai/BrowserOS
 
-![](../_asset/2025-07-11-browser-20260408172420.jpg)
+![](../_asset/2025-07-11-AgenticBrowser-20260408172420.jpg)
