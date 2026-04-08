@@ -12,7 +12,7 @@ toc_sticky: true
 
 ## Introduction
 
-[](https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md#introduction)
+<https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md#introduction>
 
 > _"Data is the new oil, but only if you know how to refine it."_
 
