@@ -1111,7 +1111,7 @@
 - [[_posts/2024-10-29takedownsdmca.md]]
 - [[_posts/2024-05-11iit2.md]]
 - [[_posts/2024-06-18billard.md]]
-- [[_posts/2024-12-05opentrasport.md]]
+- [[_posts/2024-12-05opentransport]]
 - [[_posts/2025-10-12radio.md]]
 - [[_posts/2025-08-02keygenmusic.md]]
 - [[_posts/2024-02-26-aiinfra.md]]
