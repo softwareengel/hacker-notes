@@ -977,7 +977,7 @@
 - [[_posts/2025-10-26-dvbt.md]]
 - [[_posts/2025-06-13timeseries.md]]
 - [[_posts/2025-03-09feed.md]]
-- [[_posts/2024-12-06aicoder.md]]
+- [[_posts/2024-12-06-aicoder]]
 - [[_posts/2024-02-25-winDocker.md]]
 - [[_posts/2023-09-18-20-18-27.md]]
 - [[_posts/2024-12-18-pythonseliumbot.md]]
