@@ -1,6 +1,8 @@
 ---
-title: 
-tags: 
+title: Algorithm Visualizer
+tags:
+  - algorithm
+  - Visualisation
 date: 2026-04-09
 toc: true
 toc_sticky: true
