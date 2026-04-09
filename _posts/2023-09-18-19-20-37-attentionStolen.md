@@ -12,3 +12,4 @@ Date: 2024-02-10
 
 Your attention didn’t collapse. It was stolen
 
+![](../_asset/2023-09-18-19-20-37-attentionStolen-20260408173223.jpg)

@@ -9,8 +9,6 @@ toc: true
 toc_sticky: true
 ---
 
-
-
 # Nullboard
 Nullboard is a minimalist kanban board, focused on compactness and readability
 

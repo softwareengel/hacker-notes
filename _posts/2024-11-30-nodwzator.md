@@ -1,6 +1,6 @@
 ---
-title: 
-tags: 
+title: Nodezator
+tags:
 date: 2024-12-03
 toc: true
 toc_sticky: true

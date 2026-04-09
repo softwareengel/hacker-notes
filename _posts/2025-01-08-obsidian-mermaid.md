@@ -1,12 +1,14 @@
 ---
-title: 
-tags: 
+title: obsidian-mermaid
+tags:
+  - obsidian
+  - mermaid
 date: 2025-01-08
 toc: true
 toc_sticky: true
 ---
 
-# 
+# obsidian-mermaid
 
 ``` Mermaid 
 classDiagram
