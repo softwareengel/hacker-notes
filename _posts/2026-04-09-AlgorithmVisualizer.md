@@ -29,4 +29,10 @@ Welcome to Algorithm Visualizer, an interactive online platform designed to brin
 
 ![](../_asset/2026-04-09-1775742346217.webp)
 
+
+![](../_asset/2026-04-09-AlgorithmVisualizer-1775743107172.webp)
+
 https://algorithm-visualizer.org/
+
+https://github.com/algorithm-visualizer/algorithm-visualizer
+
