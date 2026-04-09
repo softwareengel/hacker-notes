@@ -6,348 +6,349 @@ toc: true
 toc_sticky: true
 ---
 
-
 # Promote Your Startup Everywhere That Matters
 
 A curated list containing hundreds of websites & directories where you can list your startup, tool, or side project - Sortable by domain authority to maximize your SEO impact.
 
-![](./image.webp)
+
+![](../_asset/2026-04-09-promotestartup-1775741699773.webp)
+
 
 https://promotestartup.com/
 ## MD Table 
-|Name|Fee|Domain Rank|Link|Category|
-|---|---|--:|---|---|
-|Google Business Profile|Free|100|[https://google.com/business](https://google.com/business)|Profile / Directory|
-|Trustpilot|Free|97|[https://trustpilot.com](https://trustpilot.com)|Profile / Directory|
-|Source Forge|Free|96|[https://sourceforge.net](https://sourceforge.net)|Profile / Directory|
-|Unsplash|Free|96|[https://unsplash.com](https://unsplash.com)|Profile / Directory|
-|Behance|Free|96|[http://behance.net](http://behance.net)|Profile / Directory|
-|TechCrunch|Paid|96|[https://techcrunch.com](https://techcrunch.com)|Profile / Directory|
-|Quora|Free|94|[https://www.quora.com](https://www.quora.com)|Social|
-|Better Business BureaU|Free|93|[https://www.bbb.org/get-listed](https://www.bbb.org/get-listed)|Profile / Directory|
-|TripAdvisor|Free|93|[https://tripadvisor.com](https://tripadvisor.com)|Profile / Directory|
-|Yelp|Free|93|[https://yelp.com](https://yelp.com)|Profile / Directory|
-|G2|Free|93|[https://g2.com](https://g2.com)|Profile / Directory|
-|AI Toolhouse|Paid|92|[https://aitoolhouse.gumroad.com/l/submit-tool](https://aitoolhouse.gumroad.com/l/submit-tool)|Profile / Directory|
-|Crunchbase|Free|92|[https://crunchbase.com](https://crunchbase.com)|Profile / Directory|
-|Hacker News|Free|92|[https://news.ycombinator.com](https://news.ycombinator.com)|Social|
-|Product Hunt|Free|92|[https://producthunt.com](https://producthunt.com)|Profile / Directory|
-|Proven Expert|Free|91|[https://www.provenexpert.com](https://www.provenexpert.com)|Profile / Directory|
-|Capterra|Free|91|[https://capterra.com](https://capterra.com)|Profile / Directory|
-|Gartner|Free|91|[https://gartner.com/reviews/home](https://gartner.com/reviews/home)|Profile / Directory|
-|Bing Places|Free|91|[https://bingplaces.com](https://bingplaces.com)|Profile / Directory|
-|Hacker News|Free|91|https:/news.ycombinator.com|Social|
-|AI Tools|Free|90|[https://aitools.neilpatel.com](https://aitools.neilpatel.com)|Profile / Directory|
-|Geek Wire|Paid|90|[https://geekwire.com](https://geekwire.com)|Publication|
-|Yourstory|Paid|90|[https://yourstory.com](https://yourstory.com)|Publication|
-|YellowPages|Free|90|[https://yellowpages.com](https://yellowpages.com)|Profile / Directory|
-|Finances Online|Free|90|[https://financesonline.com](https://financesonline.com)|Profile / Directory|
-|Clutch|Free|90|[https://clutch.co](https://clutch.co)|Profile / Directory|
-|TrustRadius|Free|90|[https://trustradius.com](https://trustradius.com)|Profile / Directory|
-|Softpedia|Free|90|[https://www.softpedia.com/user/submit.shtml](https://www.softpedia.com/user/submit.shtml)|Profile / Directory|
-|Awwwards|Paid|90|[https://www.awwwards.com](https://www.awwwards.com)|Profile / Directory|
-|Dev Community|Free|90|[http://dev.to](http://dev.to)|Social|
-|Softonic|Paid|90|[https://en.softonic.com/android](https://en.softonic.com/android)|Profile / Directory|
-|BroUseAI|Paid|90|[https://www.brouseai.com/submission/ai](https://www.brouseai.com/submission/ai)|Profile / Directory|
-|Tech.co|Paid|89|[https://tech.co](https://tech.co)|Publication|
-|Get App|Free|89|[https://getapp.com](https://getapp.com)|Profile / Directory|
-|Stack Share|Free|89|[https://stackshare.io](https://stackshare.io)|Misc|
-|Good Firms|Free|89|[https://goodfirms.co](https://goodfirms.co)|Profile / Directory|
-|Appsumo|Free|89|[https://appsumo.com](https://appsumo.com)|Misc|
-|Smart Customer|Paid|89|[https://www.smartcustomer.com/](https://www.smartcustomer.com/)|Profile / Directory|
-|F6S|Free|88|[https://www.f6s.com/directory/companies](https://www.f6s.com/directory/companies)|Profile / Directory|
-|Alternative To|Free|87|[https://alternativeto.net](https://alternativeto.net)|Profile / Directory|
-|e27|Free|87|[https://e27.co](https://e27.co)|Profile / Directory|
-|Indie Hackers|Free|87|[https://indiehackers.com](https://indiehackers.com)|Social|
-|Growth Hackers|Free|86|[https://growthhackers.com](https://growthhackers.com)|Social|
-|Betakit|Paid|86|[https://betakit.com](https://betakit.com)|Publication|
-|BetaList|Paid|85|[https://betalist.com](https://betalist.com)|Profile / Directory|
-|KillerStartups|Paid|85|[https://killerstartups.com](https://killerstartups.com)|Publication|
-|Css Design Awards|Paid|85|[https://www.cssdesignawards.com/submit](https://www.cssdesignawards.com/submit)|Design|
-|One Page Love|Paid|84|[https://onepagelove.com](https://onepagelove.com)|Design|
-|EU-Startups|Free|84|[https://www.eu-startups.com/directory](https://www.eu-startups.com/directory)|Profile / Directory|
-|Land Book|Paid|84|[https://land-book.com/](https://land-book.com/)|Design|
-|Nextdoor|Free|83|[https://nextdoor.com](https://nextdoor.com)|Profile / Directory|
-|Software Suggest|Free|83|[https://softwaresuggest.com](https://softwaresuggest.com)|Profile / Directory|
-|Addictive Tips|Free|83|[https://www.addictivetips.com/tip-us](https://www.addictivetips.com/tip-us)|Profile / Directory|
-|Crozdesk|Free|82|[https://crozdesk.com](https://crozdesk.com)|Profile / Directory|
-|Angie's List|Free|81|[https://angieslist.com](https://angieslist.com)|Profile / Directory|
-|Fark|Free|81|[https://www.fark.com](https://www.fark.com)|Social|
-|SaaS Worthy|Free|80|[https://saasworthy.com](https://saasworthy.com)|Profile / Directory|
-|Software World|Free|80|[https://softwareworld.co](https://softwareworld.co)|Profile / Directory|
-|Lobsters|Free|80|[https://lobste.rs](https://lobste.rs)|Social|
-|Peerlist|Free|80|[https://peerlist.io](https://peerlist.io)|Profile / Directory|
-|Theresanaiforthat|Paid|79|[https://theresanaiforthat.com/get-featured/#opt_submit](https://theresanaiforthat.com/get-featured/#opt_submit)|Profile / Directory|
-|Site Inspire|Free|79|[https://www.siteinspire.com/submissions/new](https://www.siteinspire.com/submissions/new)|Design|
-|Featured Customers|Free|78|[https://featuredcustomers.com](https://featuredcustomers.com)|Profile / Directory|
-|CSS Winner|Paid|78|[https://www.csswinner.com/submitsite](https://www.csswinner.com/submitsite)|Design|
-|Futurepedia|Paid|76|[https://www.futurepedia.io/submit-tool](https://www.futurepedia.io/submit-tool)|Profile / Directory|
-|Startup Stash|Free|76|[https://startupstash.com/](https://startupstash.com/)|Profile / Directory|
-|Submission Web Directory|Free|76|[https://submissionwebdirectory.com](https://submissionwebdirectory.com)|Profile / Directory|
-|OECD AI|Free|76|[https://oecd.ai/en/catalogue/tools/submit](https://oecd.ai/en/catalogue/tools/submit)|Profile / Directory|
-|Unmatched Style|Free|76|[http://unmatchedstyle.com/submit](http://unmatchedstyle.com/submit)|Design|
-|ToolPilot|Paid|75|[https://www.toolpilot.ai/pages/submit-your-ai-tool](https://www.toolpilot.ai/pages/submit-your-ai-tool)|Profile / Directory|
-|Alternative.me|Free|75|[https://alternative.me](https://alternative.me)|Profile / Directory|
-|Next Big What|Free|75|[https://submit.nextbigwhat.com/submit-your-startup](https://submit.nextbigwhat.com/submit-your-startup)|Profile / Directory|
-|SaaS Hub|Free|75|[https://www.saashub.com/services/submit](https://www.saashub.com/services/submit)|Profile / Directory|
-|Launching Next|Free|73|[https://www.launchingnext.com/submit](https://www.launchingnext.com/submit)|Profile / Directory|
-|What's The Big Data|Paid|73|[https://whatsthebigdata.com](https://whatsthebigdata.com)|Profile / Directory|
-|StartupRanking|Free|73|[https://startupranking.com](https://startupranking.com)|Profile / Directory|
-|All Top Startups|Paid|73|[https://alltopstartups.com/directory/submit-startup/](https://alltopstartups.com/directory/submit-startup/)|Profile / Directory|
-|Side Projectors|Free|73|[https://sideprojectors.com](https://sideprojectors.com)|Profile / Directory|
-|Thing Testing|Free|73|[https://thingtesting.com/submit-brand](https://thingtesting.com/submit-brand)|Misc|
-|Crowd Reviews|Free|72|[https://crowdreviews.com](https://crowdreviews.com)|Profile / Directory|
-|Toolify.ai|Paid|70|[https://www.toolify.ai/submit](https://www.toolify.ai/submit)|Profile / Directory|
-|Future Tools|Free|70|[https://www.futuretools.io/submit-a-tool](https://www.futuretools.io/submit-a-tool)|Profile / Directory|
-|Landingfolio|Paid|70|[https://www.landingfolio.com/submit](https://www.landingfolio.com/submit)|Design|
-|Somuch|Paid|70|[https://somuch.com](https://somuch.com)|Profile / Directory|
-|TechDirectory|Free|70|[https://techdirectory.io](https://techdirectory.io)|Profile / Directory|
-|Web Designer News|Free|70|[https://webdesignernews.com](https://webdesignernews.com)|Design|
-|How Brands Are Built|Free|70|[https://howbrandsarebuilt.com/submit/](https://howbrandsarebuilt.com/submit/)|Publication|
-|Ecomm Design|Free|69|[https://ecomm.design/submit](https://ecomm.design/submit)|Design|
-|Made With Vuejs|Free|69|[https://madewithvuejs.com/submit](https://madewithvuejs.com/submit)|Profile / Directory|
-|Dang|Free|68|[https://dang.ai](https://dang.ai)|Profile / Directory|
-|Business Software|Free|68|[https://business-software.com](https://business-software.com)|Profile / Directory|
-|Spot SaaS|Free|67|[https://spotsaas.com](https://spotsaas.com)|Profile / Directory|
-|Ebool|Free|67|[https://ebool.com](https://ebool.com)|Profile / Directory|
-|SaaS Genius|Paid|67|[https://saasgenius.com](https://saasgenius.com)|Profile / Directory|
-|Webguru Awards|Free|67|[https://www.webguruawards.com/site-submit](https://www.webguruawards.com/site-submit)|Design|
-|Admire The Web|Paid|67|[https://admiretheweb.com/submit](https://admiretheweb.com/submit)|Design|
-|AI Tool Directory|Free|66|[https://tooldirectory.ai/submit-tool](https://tooldirectory.ai/submit-tool)|Profile / Directory|
-|Dev Hunt|Paid|66|[https://devhunt.org](https://devhunt.org)|Profile / Directory|
-|Tidy Repo|Free|66|[https://tidyrepo.com/suggest-plugin](https://tidyrepo.com/suggest-plugin)|Profile / Directory|
-|TopAI.tools|Paid|65|[https://topai.tools/submit](https://topai.tools/submit)|Profile / Directory|
-|PitchWall|Free|65|[https://pitchwall.co](https://pitchwall.co)|Profile / Directory|
-|Betabound|Free|65|[https://betabound.com](https://betabound.com)|Profile / Directory|
-|Unita|Free|65|[https://unita.co](https://unita.co)|Social|
-|Tapscape|Paid|65|[http://www.tapscape.com/submit-app-re](http://www.tapscape.com/submit-app-re)|Profile / Directory|
-|Tap4 AI|Paid|65|[https://tap4.ai/submit](https://tap4.ai/submit)|Profile / Directory|
-|Tech Pluto|Free|64|[https://www.techpluto.com/submit-startup/](https://www.techpluto.com/submit-startup/)|Publication|
-|Woy.ai|Paid|64|[https://woy.ai/submit](https://woy.ai/submit)|Profile / Directory|
-|Popular AI Tools|Paid|63|[https://www.popularaitools.ai/submit-a-tool](https://www.popularaitools.ai/submit-a-tool)|Profile / Directory|
-|Craftwork.design|Free|63|[https://craftwork.design](https://craftwork.design)|Design|
-|CSS Nectar|Paid|63|[https://cssnectar.com/suggest-site](https://cssnectar.com/suggest-site)|Design|
-|Foundr|Free|63|[https://foundr.ai](https://foundr.ai)|Profile / Directory|
-|AI Library|Free|62|[https://library.phygital.plus/tool-submission](https://library.phygital.plus/tool-submission)|Profile / Directory|
-|AI Trendz|Paid|62|[https://aitrendz.xyz/submit-ai-link](https://aitrendz.xyz/submit-ai-link)|Profile / Directory|
-|SaaS AI Tools|Free|62|[https://saasaitools.com/submit](https://saasaitools.com/submit)|Profile / Directory|
-|eLocal|Paid|62|[https://elocal.com](https://elocal.com)|Profile / Directory|
-|MaRS DD|Free|61|[https://app.marsdd.com/companies](https://app.marsdd.com/companies)|Profile / Directory|
-|Future Startup|Paid|61|[https://futurestartup.com/](https://futurestartup.com/)|Publication|
-|Indie Page|Paid|61|[https://indiepa.ge](https://indiepa.ge)|Profile / Directory|
-|Tiny Launch|Free|61|[https://www.tinylaun.ch](https://www.tinylaun.ch)|Profile / Directory|
-|Find My AI tool|Paid|60|[https://findmyaitool.com/submit-tool](https://findmyaitool.com/submit-tool)|Profile / Directory|
-|Technology Advice|Paid|60|[https://technologyadvice.com](https://technologyadvice.com)|Publication|
-|Apps Mirror|Paid|60|[http://www.appsmirror.com/submit-your-app-for-review](http://www.appsmirror.com/submit-your-app-for-review)|Profile / Directory|
-|AIAI.Tools|Free|59|[https://aiai.tools/submit-ai-tool](https://aiai.tools/submit-ai-tool)|Profile / Directory|
-|Cloud Findr|Free|59|[https://cloudfindr.co](https://cloudfindr.co)|Profile / Directory|
-|Freebie Supply|Free|59|[https://freebiesupply.com](https://freebiesupply.com)|Design|
-|Easy With AI|Paid|58|[https://easywithai.com/submit-tool](https://easywithai.com/submit-tool)|Profile / Directory|
-|Ben's Bites|Free|58|[https://news.bensbites.co](https://news.bensbites.co)|Profile / Directory|
-|Hotfrog|Free|58|[https://hotfrog.com](https://hotfrog.com)|Profile / Directory|
-|No Code Founders|Free|58|[https://nocodefounders.com](https://nocodefounders.com)|Profile / Directory|
-|Layers.to|Free|58|[https://layers.to](https://layers.to)|Design|
-|AI Tool Mall|Paid|58|[https://aitoolmall.com/submit](https://aitoolmall.com/submit)|Profile / Directory|
-|Powerusers AI|Paid|58|[https://powerusers.ai/submit-ai-tool](https://powerusers.ai/submit-ai-tool)|Profile / Directory|
-|Micro Launch|Paid|58|[https://microlaunch.net](https://microlaunch.net)|Profile / Directory|
-|Hive Index|Free|57|[https://thehiveindex.com/submit](https://thehiveindex.com/submit)|Social|
-|Abi Logic|Paid|56|[https://abilogic.com](https://abilogic.com)|Profile / Directory|
-|EZLocal|Free|56|[https://ezlocal.com](https://ezlocal.com)|Profile / Directory|
-|promoteproject|Free|55|[https://promoteproject.com/submit-startup](https://promoteproject.com/submit-startup)|Profile / Directory|
-|Godly|Free|55|[https://godly.website/info](https://godly.website/info)|Design|
-|MaxieBestOf|Free|55|[https://maxibestof.one/submit](https://maxibestof.one/submit)|Profile / Directory|
-|WIP|Paid|55|[https://wip.co](https://wip.co)|Social|
-|Toolio.ai|Paid|55|[https://www.toolio.ai/submit-a-tool](https://www.toolio.ai/submit-a-tool)|Profile / Directory|
-|AI With Me|Paid|55|[https://aiwith.me/submit](https://aiwith.me/submit)|Profile / Directory|
-|Fazier|Paid|54|[https://fazier.com](https://fazier.com)|Profile / Directory|
-|Appagg|Free|54|[http://appagg.com](http://appagg.com)|Misc|
-|Similar Site Search|Free|54|[http://similarsitesearch.com/webmaster](http://similarsitesearch.com/webmaster)|Profile / Directory|
-|Show Me Local|Free|53|[https://showmelocal.com](https://showmelocal.com)|Profile / Directory|
-|findstack|Free|53|[https://findstack.com](https://findstack.com)|Profile / Directory|
-|Five Taco|Free|53|[https://fivetaco.com](https://fivetaco.com)|Profile / Directory|
-|Letter List|Free|53|[https://letterlist.com/submit](https://letterlist.com/submit)|Misc|
-|DokeyAI|Paid|53|[https://dokeyai.com/submit](https://dokeyai.com/submit)|Profile / Directory|
-|AlterOpen|Paid|52|[https://alteropen.com](https://alteropen.com)|Profile / Directory|
-|Built At Lightspeed|Free|52|[https://www.builtatlightspeed.com](https://www.builtatlightspeed.com)|Design|
-|AI Top Tools|Paid|51|[https://aitoptools.com/account/submit-tool](https://aitoptools.com/account/submit-tool)|Profile / Directory|
-|AI ToolBoard|Free|51|[https://aitoolboard.com/submit-ai-tool](https://aitoolboard.com/submit-ai-tool)|Profile / Directory|
-|Stork|Free|50|[https://www.stork.ai](https://www.stork.ai)|Profile / Directory|
-|AI Tools Directory|Free|50|[https://aitoolsdirectory.com/submit-tool](https://aitoolsdirectory.com/submit-tool)|Profile / Directory|
-|Lib Hunt|Free|50|[https://libhunt.com](https://libhunt.com)|Profile / Directory|
-|Apps 400|Paid|50|[https://apps400.com](https://apps400.com)|Profile / Directory|
-|U Need|Free|50|[https://www.uneed.best/submit-a-tool](https://www.uneed.best/submit-a-tool)|Profile / Directory|
-|We <3 Wordpress|Paid|50|[https://welovewp.com/submit](https://welovewp.com/submit)|Design|
-|Front-end Developers|Free|50|[http://frontenddevelopers.org](http://frontenddevelopers.org)|Social|
-|Spectacle|Free|50|[https://spectacle.is/submit](https://spectacle.is/submit)|Profile / Directory|
-|Open Startup List|Free|50|[https://openstartuplist.com](https://openstartuplist.com)|Profile / Directory|
-|Appscribed|Paid|50|[https://appscribed.com/product-list](https://appscribed.com/product-list)|Profile / Directory|
-|Aitoolnet|Paid|49|[https://www.aitoolnet.com/submit](https://www.aitoolnet.com/submit)|Profile / Directory|
-|Startup Tracker|Free|49|[https://startuptracker.io/crowdsourcing/](https://startuptracker.io/crowdsourcing/)|Profile / Directory|
-|SelectHub|Free|49|[https://selecthub.com](https://selecthub.com)|Profile / Directory|
-|Commerce Cream|Free|49|[https://commercecream.com](https://commercecream.com)|Design|
-|Startup Dope|Free|49|[https://startupdope.com/submit-news/](https://startupdope.com/submit-news/)|Profile / Directory|
-|Techendo|Free|49|[http://techendo.com/beta](http://techendo.com/beta)|Profile / Directory|
-|Insidr.ai|Free|48|[https://www.insidr.ai/submit-tools](https://www.insidr.ai/submit-tools)|Profile / Directory|
-|Startup Buffer|Free|48|[https://startupbuffer.com/site/submit](https://startupbuffer.com/site/submit)|Profile / Directory|
-|Web App Rater|Paid|48|[https://webapprater.com/submit-your-web-application-for-review-html](https://webapprater.com/submit-your-web-application-for-review-html)|Profile / Directory|
-|SaaS Landing Page|Free|48|[https://saaslandingpage.com](https://saaslandingpage.com)|Design|
-|Cipinet|Free|48|[https://www.cipinet.com/submit.php](https://www.cipinet.com/submit.php)|Profile / Directory|
-|Openfuture|Free|48|[https://openfuture.ai/submit-tool](https://openfuture.ai/submit-tool)|Profile / Directory|
-|AI Dude|Paid|48|[https://aidude.info/submit-your-tool](https://aidude.info/submit-your-tool)|Profile / Directory|
-|AI Tech Suite|Paid|48|[https://www.aitechsuite.com/submit](https://www.aitechsuite.com/submit)|Profile / Directory|
-|AI Tools FYI|Paid|47|[https://aitools.fyi](https://aitools.fyi)|Profile / Directory|
-|The Startup Inc|Paid|47|[https://thestartupinc.com](https://thestartupinc.com)|Profile / Directory|
-|Pinkary|Free|47|[https://pinkary.com](https://pinkary.com)|Social|
-|Alpha Digits|Paid|47|[https://alphadigits.com/submit-app-for-review](https://alphadigits.com/submit-app-for-review)|Profile / Directory|
-|Tech Faster|Paid|47|[http://techfaster.com/submit-your-company/](http://techfaster.com/submit-your-company/)|Publication|
-|Tiny Startups|Free|46|[https://tinystartups.com](https://tinystartups.com)|Profile / Directory|
-|BasedTools|Paid|46|[https://www.basedtools.ai/submit](https://www.basedtools.ai/submit)|Profile / Directory|
-|Iuu|Free|46|[https://iuu.ai/submit](https://iuu.ai/submit)|Profile / Directory|
-|DoMore.ai|Paid|45|[https://domore.ai/submit-tool](https://domore.ai/submit-tool)|Profile / Directory|
-|startups.fyi|Paid|45|[https://startups.fyi](https://startups.fyi)|Profile / Directory|
-|Sidebar|Free|45|[https://sidebar.io](https://sidebar.io)|Publication|
-|Romanian Startups|Free|45|[https://www.romanianstartups.com](https://www.romanianstartups.com)|Profile / Directory|
-|Gadget Nutz|Free|45|[https://gadgetnutz.com/contact-us](https://gadgetnutz.com/contact-us)|Misc|
-|MarsX|Free|44|[https://www.marsx.dev/ai-startups](https://www.marsx.dev/ai-startups)|Profile / Directory|
-|The AI Navigator|Free|44|[https://www.theainavigator.com/submit-an-ai-tool](https://www.theainavigator.com/submit-an-ai-tool)|Profile / Directory|
-|Techlo Media|Paid|44|[https://techlomedia.in](https://techlomedia.in)|Publication|
-|PFolios|Free|44|[https://pfolios.net](https://pfolios.net)|Design|
-|AI Center|Paid|43|[https://aicenter.ai/submit-tools](https://aicenter.ai/submit-tools)|Profile / Directory|
-|Launched|Free|43|[https://launched.io/SubmitStartup](https://launched.io/SubmitStartup)|Profile / Directory|
-|StartupBase|Free|43|[https://startupbase.io](https://startupbase.io)|Profile / Directory|
-|No Code List|Free|43|[https://nocodelist.co/submit](https://nocodelist.co/submit)|Profile / Directory|
-|Victrays|Paid|43|[https://victrays.com/submit-ai-tool](https://victrays.com/submit-ai-tool)|Profile / Directory|
-|Tools RobinGood|Free|42|[https://tools.robingood.com](https://tools.robingood.com)|Profile / Directory|
-|Apps Thunder|Paid|42|[https://appsthunder.com/submit-your-app/](https://appsthunder.com/submit-your-app/)|Profile / Directory|
-|Cartcraze|Free|42|[https://cartcraze.com/submit](https://cartcraze.com/submit)|Design|
-|Aixploria|Paid|41|[https://www.aixploria.com/en/add-ai](https://www.aixploria.com/en/add-ai)|Profile / Directory|
-|Bunity|Paid|41|[https://bunity.com](https://bunity.com)|Profile / Directory|
-|Startup Inspire|Free|41|[https://startupinspire.com](https://startupinspire.com)|Profile / Directory|
-|AI Stage|Paid|40|[https://aistage.net](https://aistage.net)|Profile / Directory|
-|Tool Finder|Paid|39|[https://toolfinder.co](https://toolfinder.co)|Misc|
-|AI Tools One|Paid|39|[https://aitoolsone.com](https://aitoolsone.com)|Profile / Directory|
-|AI Directories|Free|39|[https://www.aidirectori.es](https://www.aidirectori.es)|Profile / Directory|
-|ITQlick|Paid|39|[https://itqlick.com](https://itqlick.com)|Publication|
-|Frameplate|Free|39|[https://frameplate.co](https://frameplate.co)|Design|
-|AI Parabellum|Paid|39|[https://aiparabellum.com/submit-your-ai-tool](https://aiparabellum.com/submit-your-ai-tool)|Profile / Directory|
-|BAI|Free|38|[https://bai.tools/submit-ai-tools](https://bai.tools/submit-ai-tools)|Profile / Directory|
-|Insane|Free|38|[https://theinsaneapp.com](https://theinsaneapp.com)|Publication|
-|Startups.fm|Free|38|[https://www.startups.fm](https://www.startups.fm)|Profile / Directory|
-|Dead Simple Sites|Free|38|[https://deadsimplesites.com](https://deadsimplesites.com)|Design|
-|The Popular Apps|Paid|38|[http://thepopularapps.com/submit-app](http://thepopularapps.com/submit-app)|Profile / Directory|
-|Liaise Platform|Free|37|[https://liaiseplatform.com](https://liaiseplatform.com)|Profile / Directory|
-|Apps and Websites|Free|37|[https://appsandwebsites.com](https://appsandwebsites.com)|Profile / Directory|
-|AI Tool Mate|Paid|37|[https://aitoolmate.com](https://aitoolmate.com)|Profile / Directory|
-|Free AI Apps|Paid|37|[https://freeappsai.com/add](https://freeappsai.com/add)|Profile / Directory|
-|All GPTs|Free|36|[https://allgpts.co](https://allgpts.co)|Profile / Directory|
-|Resource FYI|Free|36|[https://resource.fyi](https://resource.fyi)|Profile / Directory|
-|Flat Trendz|Paid|36|[https://flattrendz.com/submit-a-site](https://flattrendz.com/submit-a-site)|Design|
-|FMHY|Free|36|[https://fmhy.pages.dev/other/contributing#submitting-a-link](https://fmhy.pages.dev/other/contributing#submitting-a-link)|Profile / Directory|
-|HD Robots|Paid|35|[https://hdrobots.com/submit-ai-tool](https://hdrobots.com/submit-ai-tool)|Profile / Directory|
-|AI Hub|Free|35|[https://aihub.org/contribute/](https://aihub.org/contribute/)|Publication|
-|UI Goodies|Paid|35|[https://uigoodies.com](https://uigoodies.com)|Design|
-|Appoid|Paid|35|[http://appiod.com/submit-app-for-review](http://appiod.com/submit-app-for-review)|Profile / Directory|
-|Apps Mamma|Paid|35|[http://appsmamma.com/submit-your-app](http://appsmamma.com/submit-your-app)|Profile / Directory|
-|Public APIs|Free|35|[https://publicapis.dev](https://publicapis.dev)|Profile / Directory|
-|TechBehemoths|Free|34|[https://techbehemoths.com/companies/get-listed](https://techbehemoths.com/companies/get-listed)|Profile / Directory|
-|Startup Fame|Free|34|[https://startupfa.me](https://startupfa.me)|Profile / Directory|
-|10 Words|Free|34|[https://10words.io](https://10words.io)|Profile / Directory|
-|Dark|Free|34|[https://www.dark.design](https://www.dark.design)|Design|
-|Apprater|Free|34|[https://apprater.net/add](https://apprater.net/add)|Profile / Directory|
-|1000.tools|Paid|33|[https://1000.tools](https://1000.tools)|Profile / Directory|
-|Dark Mode Design|Free|33|[https://www.darkmodedesign.com](https://www.darkmodedesign.com)|Design|
-|Flat Ui|Free|33|[https://flatui.com/submit-flat-ui-designs](https://flatui.com/submit-flat-ui-designs)|Design|
-|TYY|Paid|33|[https://tyy.ai/submit](https://tyy.ai/submit)|Profile / Directory|
-|Directory World|Paid|32|[https://directoryworld.net](https://directoryworld.net)|Profile / Directory|
-|Tekpon|Paid|32|[https://tekpon.com](https://tekpon.com)|Profile / Directory|
-|AI Tools Explorer|Paid|32|[https://aitoolsexplorer.com/submit-ai-tool](https://aitoolsexplorer.com/submit-ai-tool)|Profile / Directory|
-|Ai Valley|Free|31|[https://aivalley.ai/submit-tool](https://aivalley.ai/submit-tool)|Profile / Directory|
-|AI Accounting Apps|Paid|31|[https://www.aiaccountingapps.com](https://www.aiaccountingapps.com)|Profile / Directory|
-|Startup Collections|Free|31|[https://startupcollections.com](https://startupcollections.com)|Profile / Directory|
-|The Tool Bus|Paid|31|[https://www.thetoolbus.ai/ai-tools](https://www.thetoolbus.ai/ai-tools)|Profile / Directory|
-|Alive Directory|Paid|30|[https://alivedirectory.com](https://alivedirectory.com)|Profile / Directory|
-|AIToolly|Paid|30|[https://aitoolly.com/submit](https://aitoolly.com/submit)|Profile / Directory|
-|Neede|Free|29|[https://neede.co](https://neede.co)|Design|
-|Design spells|Free|29|[https://www.designspells.com](https://www.designspells.com)|Design|
-|Taalk|Paid|29|[https://taalk.com/submit-startup](https://taalk.com/submit-startup)|Profile / Directory|
-|PoweredbyAI|Free|28|[https://poweredbyai.app/submit-tool](https://poweredbyai.app/submit-tool)|Profile / Directory|
-|Indie Directory|Paid|28|[https://directory.indie-starter.dev](https://directory.indie-starter.dev)|Profile / Directory|
-|Saas Css|Free|28|[https://saascss.com/submit](https://saascss.com/submit)|Design|
-|Roozna|Paid|28|[https://roozna.com](https://roozna.com)|Profile / Directory|
-|Awesome AI Tools|Paid|28|[https://awesomeaitools.com/submit-your-tool](https://awesomeaitools.com/submit-your-tool)|Profile / Directory|
-|Search Engine OF AI|Paid|28|[https://seofai.com/submit-ai-tool](https://seofai.com/submit-ai-tool)|Profile / Directory|
-|AIGO.tools|Paid|28|[https://aigo.tools/submit](https://aigo.tools/submit)|Profile / Directory|
-|OpenTools.AI|Paid|27|[https://opentools.ai](https://opentools.ai)|Profile / Directory|
-|Tip Season|Free|27|[https://tipseason.com](https://tipseason.com)|Profile / Directory|
-|Best Web Design Tools|Paid|27|[https://bestwebdesigntools.com](https://bestwebdesigntools.com)|Design|
-|DropYourAI|Paid|27|[https://www.dropyourai.com/submit-tool](https://www.dropyourai.com/submit-tool)|Profile / Directory|
-|Toools.design|Paid|26|[https://toools.design](https://toools.design)|Design|
-|AI Best Tools|Paid|26|[https://aibest.tools](https://aibest.tools)|Profile / Directory|
-|Post Make|Paid|26|[https://postmake.io](https://postmake.io)|Profile / Directory|
-|Educator Tools|Paid|26|[https://aieducator.tools](https://aieducator.tools)|Profile / Directory|
-|Startup Spotlight|Paid|26|[https://www.startupspotlight.co](https://www.startupspotlight.co)|Profile / Directory|
-|Tool Hub|Paid|26|[https://toolhub.me](https://toolhub.me)|Profile / Directory|
-|All Mac Apps|Free|26|[https://allmacapps.com](https://allmacapps.com)|Profile / Directory|
-|Boilerplate Hub|Free|26|[https://boilerplatehub.com](https://boilerplatehub.com)|Profile / Directory|
-|Deck Gallery|Free|26|[https://www.deck.gallery](https://www.deck.gallery)|Design|
-|Landing Pages|Free|26|[https://www.landingpage.fyi](https://www.landingpage.fyi)|Design|
-|First 100 Users|Free|26|[https://www.first100users.com/submit](https://www.first100users.com/submit)|Profile / Directory|
-|Altern|Paid|26|[https://altern.ai/submit#submit-tools](https://altern.ai/submit#submit-tools)|Profile / Directory|
-|GPTAcademy|Paid|26|[https://www.gptacademy.co/submit](https://www.gptacademy.co/submit)|Profile / Directory|
-|AI Depot|Free|25|[https://aidepot.co](https://aidepot.co)|Profile / Directory|
-|Alternatives.co|Free|25|[https://alternatives.co](https://alternatives.co)|Profile / Directory|
-|ToolPasta (by Robopost)|Paid|25|[https://robopost.app/en/toolpasta/submit](https://robopost.app/en/toolpasta/submit)|Profile / Directory|
-|Tailkits.com|Free|25|[https://tailkits.com](https://tailkits.com)|Design|
-|ToolsPedia|Paid|24|[https://www.toolspedia.io/submit-tool](https://www.toolspedia.io/submit-tool)|Profile / Directory|
-|Tool List|Free|24|[https://toollist.ai/product/create](https://toollist.ai/product/create)|Profile / Directory|
-|Productivity Directory|Free|24|[https://productivity.directory](https://productivity.directory)|Profile / Directory|
-|StartupTile|Paid|24|[https://startuptile.com](https://startuptile.com)|Profile / Directory|
-|OSSsoftware.org|Paid|24|[https://osssoftware.org](https://osssoftware.org)|Profile / Directory|
-|AI of The Day|Free|22|[https://aioftheday.com/submit-a-tool](https://aioftheday.com/submit-a-tool)|Profile / Directory|
-|Canopy Directory|Free|22|[https://www.canopydirectory.com/suggest-tool](https://www.canopydirectory.com/suggest-tool)|Profile / Directory|
-|BufferApps|Paid|22|[https://bufferapps.com](https://bufferapps.com)|Profile / Directory|
-|Mr. Free Tools|Free|22|[https://mrfreetools.com](https://mrfreetools.com)|Profile / Directory|
-|Lachief.io|Free|22|[https://lachief.io](https://lachief.io)|Profile / Directory|
-|AImojo|Paid|22|[https://aimojo.io/submit/](https://aimojo.io/submit/)|Profile / Directory|
-|AI Tool Guru|Free|21|[https://aitoolguru.com/submit-ai-tool](https://aitoolguru.com/submit-ai-tool)|Profile / Directory|
-|AI Tools|Free|21|[https://aitools.lol](https://aitools.lol)|Profile / Directory|
-|AI Best Top|Free|20|[https://www.aibesttop.com](https://www.aibesttop.com)|Profile / Directory|
-|Best Of AI|Paid|20|[https://bestofai.com](https://bestofai.com)|Profile / Directory|
-|Saaspo|Free|20|[https://saaspo.com](https://saaspo.com)|Design|
-|MakerMove|Paid|20|[https://www.makermove.com/tools](https://www.makermove.com/tools)|Profile / Directory|
-|AI Search|Paid|19|[https://ai-search.io/submit](https://ai-search.io/submit)|Profile / Directory|
-|MavTools|Paid|19|[https://mavtools.com/list-my-tool](https://mavtools.com/list-my-tool)|Profile / Directory|
-|Tool Scout|Free|18|[https://toolscout.ai/submit](https://toolscout.ai/submit)|Profile / Directory|
-|NextGen Tools|Free|18|[https://nextgentools.me/submit-your-tool](https://nextgentools.me/submit-your-tool)|Profile / Directory|
-|Monkey Ai Tools|Paid|18|[https://www.monkeyaitools.com/submit-tool](https://www.monkeyaitools.com/submit-tool)|Profile / Directory|
-|ToolsForHumans.ai|Free|17|[https://toolsforhumans.ai](https://toolsforhumans.ai)|Profile / Directory|
-|Gpts Hunter|Free|17|[https://gptshunter.com](https://gptshunter.com)|Profile / Directory|
-|Storefront Design|Free|17|[https://www.storefront.design](https://www.storefront.design)|Design|
-|Awesome Indie|Free|17|[https://awesomeindie.com](https://awesomeindie.com)|Profile / Directory|
-|ToolsFine|Free|16|[https://toolsfine.com](https://toolsfine.com)|Profile / Directory|
-|Entrepreneur's Network|Free||[https://www.linkedin.com/groups/91749](https://www.linkedin.com/groups/91749)|Social|
-|r/webdev|Free||[https://www.reddit.com/r/webdev](https://www.reddit.com/r/webdev)|Social|
-|r/smallbusiness|Free||[https://www.reddit.com/r/smallbusiness](https://www.reddit.com/r/smallbusiness)|Social|
-|r/startups|Free||[https://www.reddit.com/r/startups](https://www.reddit.com/r/startups)|Social|
-|r/ArtificialInteligence|Free||[https://www.reddit.com/r/ArtificialInteligence](https://www.reddit.com/r/ArtificialInteligence)|Social|
-|r/EntrepreneurRideAlong|Free||[https://www.reddit.com/r/EntrepreneurRideAlong](https://www.reddit.com/r/EntrepreneurRideAlong)|Social|
-|r/Frontend|Free||[https://www.reddit.com/r/Frontend](https://www.reddit.com/r/Frontend)|Social|
-|r/SideProject|Free||[https://www.reddit.com/r/SideProject](https://www.reddit.com/r/SideProject)|Social|
-|r/Affiliatemarketing|Free||[https://www.reddit.com/r/Affiliatemarketing](https://www.reddit.com/r/Affiliatemarketing)|Social|
-|r/SaaS|Free||[https://www.reddit.com/r/SaaS](https://www.reddit.com/r/SaaS)|Social|
-|r/startup|Free||[https://www.reddit.com/r/startup](https://www.reddit.com/r/startup)|Social|
-|r/design_critiques|Free||[https://www.reddit.com/r/design_critiques](https://www.reddit.com/r/design_critiques)|Social|
-|r/thesidehustle|Free||[https://www.reddit.com/r/thesidehustle](https://www.reddit.com/r/thesidehustle)|Social|
-|r/Startup_Ideas|Free||[https://www.reddit.com/r/Startup_Ideas](https://www.reddit.com/r/Startup_Ideas)|Social|
-|r/growmybusiness|Free||[https://www.reddit.com/r/growmybusiness](https://www.reddit.com/r/growmybusiness)|Social|
-|r/Entrepreneurs|Free||[https://www.reddit.com/r/Entrepreneurs](https://www.reddit.com/r/Entrepreneurs)|Social|
-|r/indiehackers|Free||[https://www.reddit.com/r/indiehackers](https://www.reddit.com/r/indiehackers)|Social|
-|r/indiebiz|Free||[https://www.reddit.com/r/indiebiz](https://www.reddit.com/r/indiebiz)|Social|
-|r/alphaandbetausers|Free||[https://www.reddit.com/r/alphaandbetausers](https://www.reddit.com/r/alphaandbetausers)|Social|
-|r/microsaas|Free||[https://www.reddit.com/r/microsaas](https://www.reddit.com/r/microsaas)|Social|
-|r/ProductHunters|Free||[https://www.reddit.com/r/ProductHunters](https://www.reddit.com/r/ProductHunters)|Social|
-|r/IMadeThis|Free||[https://www.reddit.com/r/IMadeThis](https://www.reddit.com/r/IMadeThis)|Social|
-|r/roastmystartup|Free||[https://www.reddit.com/r/roastmystartup](https://www.reddit.com/r/roastmystartup)|Social|
+| Name                     | Fee  | Domain Rank | Link                                                                                                                                       | Category            |
+| ------------------------ | ---- | ----------: | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------- |
+| Google Business Profile  | Free |         100 | [https://google.com/business](https://google.com/business)                                                                                 | Profile / Directory |
+| Trustpilot               | Free |          97 | [https://trustpilot.com](https://trustpilot.com)                                                                                           | Profile / Directory |
+| Source Forge             | Free |          96 | [https://sourceforge.net](https://sourceforge.net)                                                                                         | Profile / Directory |
+| Unsplash                 | Free |          96 | [https://unsplash.com](https://unsplash.com)                                                                                               | Profile / Directory |
+| Behance                  | Free |          96 | [http://behance.net](http://behance.net)                                                                                                   | Profile / Directory |
+| TechCrunch               | Paid |          96 | [https://techcrunch.com](https://techcrunch.com)                                                                                           | Profile / Directory |
+| Quora                    | Free |          94 | [https://www.quora.com](https://www.quora.com)                                                                                             | Social              |
+| Better Business BureaU   | Free |          93 | [https://www.bbb.org/get-listed](https://www.bbb.org/get-listed)                                                                           | Profile / Directory |
+| TripAdvisor              | Free |          93 | [https://tripadvisor.com](https://tripadvisor.com)                                                                                         | Profile / Directory |
+| Yelp                     | Free |          93 | [https://yelp.com](https://yelp.com)                                                                                                       | Profile / Directory |
+| G2                       | Free |          93 | [https://g2.com](https://g2.com)                                                                                                           | Profile / Directory |
+| AI Toolhouse             | Paid |          92 | [https://aitoolhouse.gumroad.com/l/submit-tool](https://aitoolhouse.gumroad.com/l/submit-tool)                                             | Profile / Directory |
+| Crunchbase               | Free |          92 | [https://crunchbase.com](https://crunchbase.com)                                                                                           | Profile / Directory |
+| Hacker News              | Free |          92 | [https://news.ycombinator.com](https://news.ycombinator.com)                                                                               | Social              |
+| Product Hunt             | Free |          92 | [https://producthunt.com](https://producthunt.com)                                                                                         | Profile / Directory |
+| Proven Expert            | Free |          91 | [https://www.provenexpert.com](https://www.provenexpert.com)                                                                               | Profile / Directory |
+| Capterra                 | Free |          91 | [https://capterra.com](https://capterra.com)                                                                                               | Profile / Directory |
+| Gartner                  | Free |          91 | [https://gartner.com/reviews/home](https://gartner.com/reviews/home)                                                                       | Profile / Directory |
+| Bing Places              | Free |          91 | [https://bingplaces.com](https://bingplaces.com)                                                                                           | Profile / Directory |
+| Hacker News              | Free |          91 | https:/news.ycombinator.com                                                                                                                | Social              |
+| AI Tools                 | Free |          90 | [https://aitools.neilpatel.com](https://aitools.neilpatel.com)                                                                             | Profile / Directory |
+| Geek Wire                | Paid |          90 | [https://geekwire.com](https://geekwire.com)                                                                                               | Publication         |
+| Yourstory                | Paid |          90 | [https://yourstory.com](https://yourstory.com)                                                                                             | Publication         |
+| YellowPages              | Free |          90 | [https://yellowpages.com](https://yellowpages.com)                                                                                         | Profile / Directory |
+| Finances Online          | Free |          90 | [https://financesonline.com](https://financesonline.com)                                                                                   | Profile / Directory |
+| Clutch                   | Free |          90 | [https://clutch.co](https://clutch.co)                                                                                                     | Profile / Directory |
+| TrustRadius              | Free |          90 | [https://trustradius.com](https://trustradius.com)                                                                                         | Profile / Directory |
+| Softpedia                | Free |          90 | [https://www.softpedia.com/user/submit.shtml](https://www.softpedia.com/user/submit.shtml)                                                 | Profile / Directory |
+| Awwwards                 | Paid |          90 | [https://www.awwwards.com](https://www.awwwards.com)                                                                                       | Profile / Directory |
+| Dev Community            | Free |          90 | [http://dev.to](http://dev.to)                                                                                                             | Social              |
+| Softonic                 | Paid |          90 | [https://en.softonic.com/android](https://en.softonic.com/android)                                                                         | Profile / Directory |
+| BroUseAI                 | Paid |          90 | [https://www.brouseai.com/submission/ai](https://www.brouseai.com/submission/ai)                                                           | Profile / Directory |
+| Tech.co                  | Paid |          89 | [https://tech.co](https://tech.co)                                                                                                         | Publication         |
+| Get App                  | Free |          89 | [https://getapp.com](https://getapp.com)                                                                                                   | Profile / Directory |
+| Stack Share              | Free |          89 | [https://stackshare.io](https://stackshare.io)                                                                                             | Misc                |
+| Good Firms               | Free |          89 | [https://goodfirms.co](https://goodfirms.co)                                                                                               | Profile / Directory |
+| Appsumo                  | Free |          89 | [https://appsumo.com](https://appsumo.com)                                                                                                 | Misc                |
+| Smart Customer           | Paid |          89 | [https://www.smartcustomer.com/](https://www.smartcustomer.com/)                                                                           | Profile / Directory |
+| F6S                      | Free |          88 | [https://www.f6s.com/directory/companies](https://www.f6s.com/directory/companies)                                                         | Profile / Directory |
+| Alternative To           | Free |          87 | [https://alternativeto.net](https://alternativeto.net)                                                                                     | Profile / Directory |
+| e27                      | Free |          87 | [https://e27.co](https://e27.co)                                                                                                           | Profile / Directory |
+| Indie Hackers            | Free |          87 | [https://indiehackers.com](https://indiehackers.com)                                                                                       | Social              |
+| Growth Hackers           | Free |          86 | [https://growthhackers.com](https://growthhackers.com)                                                                                     | Social              |
+| Betakit                  | Paid |          86 | [https://betakit.com](https://betakit.com)                                                                                                 | Publication         |
+| BetaList                 | Paid |          85 | [https://betalist.com](https://betalist.com)                                                                                               | Profile / Directory |
+| KillerStartups           | Paid |          85 | [https://killerstartups.com](https://killerstartups.com)                                                                                   | Publication         |
+| Css Design Awards        | Paid |          85 | [https://www.cssdesignawards.com/submit](https://www.cssdesignawards.com/submit)                                                           | Design              |
+| One Page Love            | Paid |          84 | [https://onepagelove.com](https://onepagelove.com)                                                                                         | Design              |
+| EU-Startups              | Free |          84 | [https://www.eu-startups.com/directory](https://www.eu-startups.com/directory)                                                             | Profile / Directory |
+| Land Book                | Paid |          84 | [https://land-book.com/](https://land-book.com/)                                                                                           | Design              |
+| Nextdoor                 | Free |          83 | [https://nextdoor.com](https://nextdoor.com)                                                                                               | Profile / Directory |
+| Software Suggest         | Free |          83 | [https://softwaresuggest.com](https://softwaresuggest.com)                                                                                 | Profile / Directory |
+| Addictive Tips           | Free |          83 | [https://www.addictivetips.com/tip-us](https://www.addictivetips.com/tip-us)                                                               | Profile / Directory |
+| Crozdesk                 | Free |          82 | [https://crozdesk.com](https://crozdesk.com)                                                                                               | Profile / Directory |
+| Angie's List             | Free |          81 | [https://angieslist.com](https://angieslist.com)                                                                                           | Profile / Directory |
+| Fark                     | Free |          81 | [https://www.fark.com](https://www.fark.com)                                                                                               | Social              |
+| SaaS Worthy              | Free |          80 | [https://saasworthy.com](https://saasworthy.com)                                                                                           | Profile / Directory |
+| Software World           | Free |          80 | [https://softwareworld.co](https://softwareworld.co)                                                                                       | Profile / Directory |
+| Lobsters                 | Free |          80 | [https://lobste.rs](https://lobste.rs)                                                                                                     | Social              |
+| Peerlist                 | Free |          80 | [https://peerlist.io](https://peerlist.io)                                                                                                 | Profile / Directory |
+| Theresanaiforthat        | Paid |          79 | [https://theresanaiforthat.com/get-featured/#opt_submit](https://theresanaiforthat.com/get-featured/#opt_submit)                           | Profile / Directory |
+| Site Inspire             | Free |          79 | [https://www.siteinspire.com/submissions/new](https://www.siteinspire.com/submissions/new)                                                 | Design              |
+| Featured Customers       | Free |          78 | [https://featuredcustomers.com](https://featuredcustomers.com)                                                                             | Profile / Directory |
+| CSS Winner               | Paid |          78 | [https://www.csswinner.com/submitsite](https://www.csswinner.com/submitsite)                                                               | Design              |
+| Futurepedia              | Paid |          76 | [https://www.futurepedia.io/submit-tool](https://www.futurepedia.io/submit-tool)                                                           | Profile / Directory |
+| Startup Stash            | Free |          76 | [https://startupstash.com/](https://startupstash.com/)                                                                                     | Profile / Directory |
+| Submission Web Directory | Free |          76 | [https://submissionwebdirectory.com](https://submissionwebdirectory.com)                                                                   | Profile / Directory |
+| OECD AI                  | Free |          76 | [https://oecd.ai/en/catalogue/tools/submit](https://oecd.ai/en/catalogue/tools/submit)                                                     | Profile / Directory |
+| Unmatched Style          | Free |          76 | [http://unmatchedstyle.com/submit](http://unmatchedstyle.com/submit)                                                                       | Design              |
+| ToolPilot                | Paid |          75 | [https://www.toolpilot.ai/pages/submit-your-ai-tool](https://www.toolpilot.ai/pages/submit-your-ai-tool)                                   | Profile / Directory |
+| Alternative.me           | Free |          75 | [https://alternative.me](https://alternative.me)                                                                                           | Profile / Directory |
+| Next Big What            | Free |          75 | [https://submit.nextbigwhat.com/submit-your-startup](https://submit.nextbigwhat.com/submit-your-startup)                                   | Profile / Directory |
+| SaaS Hub                 | Free |          75 | [https://www.saashub.com/services/submit](https://www.saashub.com/services/submit)                                                         | Profile / Directory |
+| Launching Next           | Free |          73 | [https://www.launchingnext.com/submit](https://www.launchingnext.com/submit)                                                               | Profile / Directory |
+| What's The Big Data      | Paid |          73 | [https://whatsthebigdata.com](https://whatsthebigdata.com)                                                                                 | Profile / Directory |
+| StartupRanking           | Free |          73 | [https://startupranking.com](https://startupranking.com)                                                                                   | Profile / Directory |
+| All Top Startups         | Paid |          73 | [https://alltopstartups.com/directory/submit-startup/](https://alltopstartups.com/directory/submit-startup/)                               | Profile / Directory |
+| Side Projectors          | Free |          73 | [https://sideprojectors.com](https://sideprojectors.com)                                                                                   | Profile / Directory |
+| Thing Testing            | Free |          73 | [https://thingtesting.com/submit-brand](https://thingtesting.com/submit-brand)                                                             | Misc                |
+| Crowd Reviews            | Free |          72 | [https://crowdreviews.com](https://crowdreviews.com)                                                                                       | Profile / Directory |
+| Toolify.ai               | Paid |          70 | [https://www.toolify.ai/submit](https://www.toolify.ai/submit)                                                                             | Profile / Directory |
+| Future Tools             | Free |          70 | [https://www.futuretools.io/submit-a-tool](https://www.futuretools.io/submit-a-tool)                                                       | Profile / Directory |
+| Landingfolio             | Paid |          70 | [https://www.landingfolio.com/submit](https://www.landingfolio.com/submit)                                                                 | Design              |
+| Somuch                   | Paid |          70 | [https://somuch.com](https://somuch.com)                                                                                                   | Profile / Directory |
+| TechDirectory            | Free |          70 | [https://techdirectory.io](https://techdirectory.io)                                                                                       | Profile / Directory |
+| Web Designer News        | Free |          70 | [https://webdesignernews.com](https://webdesignernews.com)                                                                                 | Design              |
+| How Brands Are Built     | Free |          70 | [https://howbrandsarebuilt.com/submit/](https://howbrandsarebuilt.com/submit/)                                                             | Publication         |
+| Ecomm Design             | Free |          69 | [https://ecomm.design/submit](https://ecomm.design/submit)                                                                                 | Design              |
+| Made With Vuejs          | Free |          69 | [https://madewithvuejs.com/submit](https://madewithvuejs.com/submit)                                                                       | Profile / Directory |
+| Dang                     | Free |          68 | [https://dang.ai](https://dang.ai)                                                                                                         | Profile / Directory |
+| Business Software        | Free |          68 | [https://business-software.com](https://business-software.com)                                                                             | Profile / Directory |
+| Spot SaaS                | Free |          67 | [https://spotsaas.com](https://spotsaas.com)                                                                                               | Profile / Directory |
+| Ebool                    | Free |          67 | [https://ebool.com](https://ebool.com)                                                                                                     | Profile / Directory |
+| SaaS Genius              | Paid |          67 | [https://saasgenius.com](https://saasgenius.com)                                                                                           | Profile / Directory |
+| Webguru Awards           | Free |          67 | [https://www.webguruawards.com/site-submit](https://www.webguruawards.com/site-submit)                                                     | Design              |
+| Admire The Web           | Paid |          67 | [https://admiretheweb.com/submit](https://admiretheweb.com/submit)                                                                         | Design              |
+| AI Tool Directory        | Free |          66 | [https://tooldirectory.ai/submit-tool](https://tooldirectory.ai/submit-tool)                                                               | Profile / Directory |
+| Dev Hunt                 | Paid |          66 | [https://devhunt.org](https://devhunt.org)                                                                                                 | Profile / Directory |
+| Tidy Repo                | Free |          66 | [https://tidyrepo.com/suggest-plugin](https://tidyrepo.com/suggest-plugin)                                                                 | Profile / Directory |
+| TopAI.tools              | Paid |          65 | [https://topai.tools/submit](https://topai.tools/submit)                                                                                   | Profile / Directory |
+| PitchWall                | Free |          65 | [https://pitchwall.co](https://pitchwall.co)                                                                                               | Profile / Directory |
+| Betabound                | Free |          65 | [https://betabound.com](https://betabound.com)                                                                                             | Profile / Directory |
+| Unita                    | Free |          65 | [https://unita.co](https://unita.co)                                                                                                       | Social              |
+| Tapscape                 | Paid |          65 | [http://www.tapscape.com/submit-app-re](http://www.tapscape.com/submit-app-re)                                                             | Profile / Directory |
+| Tap4 AI                  | Paid |          65 | [https://tap4.ai/submit](https://tap4.ai/submit)                                                                                           | Profile / Directory |
+| Tech Pluto               | Free |          64 | [https://www.techpluto.com/submit-startup/](https://www.techpluto.com/submit-startup/)                                                     | Publication         |
+| Woy.ai                   | Paid |          64 | [https://woy.ai/submit](https://woy.ai/submit)                                                                                             | Profile / Directory |
+| Popular AI Tools         | Paid |          63 | [https://www.popularaitools.ai/submit-a-tool](https://www.popularaitools.ai/submit-a-tool)                                                 | Profile / Directory |
+| Craftwork.design         | Free |          63 | [https://craftwork.design](https://craftwork.design)                                                                                       | Design              |
+| CSS Nectar               | Paid |          63 | [https://cssnectar.com/suggest-site](https://cssnectar.com/suggest-site)                                                                   | Design              |
+| Foundr                   | Free |          63 | [https://foundr.ai](https://foundr.ai)                                                                                                     | Profile / Directory |
+| AI Library               | Free |          62 | [https://library.phygital.plus/tool-submission](https://library.phygital.plus/tool-submission)                                             | Profile / Directory |
+| AI Trendz                | Paid |          62 | [https://aitrendz.xyz/submit-ai-link](https://aitrendz.xyz/submit-ai-link)                                                                 | Profile / Directory |
+| SaaS AI Tools            | Free |          62 | [https://saasaitools.com/submit](https://saasaitools.com/submit)                                                                           | Profile / Directory |
+| eLocal                   | Paid |          62 | [https://elocal.com](https://elocal.com)                                                                                                   | Profile / Directory |
+| MaRS DD                  | Free |          61 | [https://app.marsdd.com/companies](https://app.marsdd.com/companies)                                                                       | Profile / Directory |
+| Future Startup           | Paid |          61 | [https://futurestartup.com/](https://futurestartup.com/)                                                                                   | Publication         |
+| Indie Page               | Paid |          61 | [https://indiepa.ge](https://indiepa.ge)                                                                                                   | Profile / Directory |
+| Tiny Launch              | Free |          61 | [https://www.tinylaun.ch](https://www.tinylaun.ch)                                                                                         | Profile / Directory |
+| Find My AI tool          | Paid |          60 | [https://findmyaitool.com/submit-tool](https://findmyaitool.com/submit-tool)                                                               | Profile / Directory |
+| Technology Advice        | Paid |          60 | [https://technologyadvice.com](https://technologyadvice.com)                                                                               | Publication         |
+| Apps Mirror              | Paid |          60 | [http://www.appsmirror.com/submit-your-app-for-review](http://www.appsmirror.com/submit-your-app-for-review)                               | Profile / Directory |
+| AIAI.Tools               | Free |          59 | [https://aiai.tools/submit-ai-tool](https://aiai.tools/submit-ai-tool)                                                                     | Profile / Directory |
+| Cloud Findr              | Free |          59 | [https://cloudfindr.co](https://cloudfindr.co)                                                                                             | Profile / Directory |
+| Freebie Supply           | Free |          59 | [https://freebiesupply.com](https://freebiesupply.com)                                                                                     | Design              |
+| Easy With AI             | Paid |          58 | [https://easywithai.com/submit-tool](https://easywithai.com/submit-tool)                                                                   | Profile / Directory |
+| Ben's Bites              | Free |          58 | [https://news.bensbites.co](https://news.bensbites.co)                                                                                     | Profile / Directory |
+| Hotfrog                  | Free |          58 | [https://hotfrog.com](https://hotfrog.com)                                                                                                 | Profile / Directory |
+| No Code Founders         | Free |          58 | [https://nocodefounders.com](https://nocodefounders.com)                                                                                   | Profile / Directory |
+| Layers.to                | Free |          58 | [https://layers.to](https://layers.to)                                                                                                     | Design              |
+| AI Tool Mall             | Paid |          58 | [https://aitoolmall.com/submit](https://aitoolmall.com/submit)                                                                             | Profile / Directory |
+| Powerusers AI            | Paid |          58 | [https://powerusers.ai/submit-ai-tool](https://powerusers.ai/submit-ai-tool)                                                               | Profile / Directory |
+| Micro Launch             | Paid |          58 | [https://microlaunch.net](https://microlaunch.net)                                                                                         | Profile / Directory |
+| Hive Index               | Free |          57 | [https://thehiveindex.com/submit](https://thehiveindex.com/submit)                                                                         | Social              |
+| Abi Logic                | Paid |          56 | [https://abilogic.com](https://abilogic.com)                                                                                               | Profile / Directory |
+| EZLocal                  | Free |          56 | [https://ezlocal.com](https://ezlocal.com)                                                                                                 | Profile / Directory |
+| promoteproject           | Free |          55 | [https://promoteproject.com/submit-startup](https://promoteproject.com/submit-startup)                                                     | Profile / Directory |
+| Godly                    | Free |          55 | [https://godly.website/info](https://godly.website/info)                                                                                   | Design              |
+| MaxieBestOf              | Free |          55 | [https://maxibestof.one/submit](https://maxibestof.one/submit)                                                                             | Profile / Directory |
+| WIP                      | Paid |          55 | [https://wip.co](https://wip.co)                                                                                                           | Social              |
+| Toolio.ai                | Paid |          55 | [https://www.toolio.ai/submit-a-tool](https://www.toolio.ai/submit-a-tool)                                                                 | Profile / Directory |
+| AI With Me               | Paid |          55 | [https://aiwith.me/submit](https://aiwith.me/submit)                                                                                       | Profile / Directory |
+| Fazier                   | Paid |          54 | [https://fazier.com](https://fazier.com)                                                                                                   | Profile / Directory |
+| Appagg                   | Free |          54 | [http://appagg.com](http://appagg.com)                                                                                                     | Misc                |
+| Similar Site Search      | Free |          54 | [http://similarsitesearch.com/webmaster](http://similarsitesearch.com/webmaster)                                                           | Profile / Directory |
+| Show Me Local            | Free |          53 | [https://showmelocal.com](https://showmelocal.com)                                                                                         | Profile / Directory |
+| findstack                | Free |          53 | [https://findstack.com](https://findstack.com)                                                                                             | Profile / Directory |
+| Five Taco                | Free |          53 | [https://fivetaco.com](https://fivetaco.com)                                                                                               | Profile / Directory |
+| Letter List              | Free |          53 | [https://letterlist.com/submit](https://letterlist.com/submit)                                                                             | Misc                |
+| DokeyAI                  | Paid |          53 | [https://dokeyai.com/submit](https://dokeyai.com/submit)                                                                                   | Profile / Directory |
+| AlterOpen                | Paid |          52 | [https://alteropen.com](https://alteropen.com)                                                                                             | Profile / Directory |
+| Built At Lightspeed      | Free |          52 | [https://www.builtatlightspeed.com](https://www.builtatlightspeed.com)                                                                     | Design              |
+| AI Top Tools             | Paid |          51 | [https://aitoptools.com/account/submit-tool](https://aitoptools.com/account/submit-tool)                                                   | Profile / Directory |
+| AI ToolBoard             | Free |          51 | [https://aitoolboard.com/submit-ai-tool](https://aitoolboard.com/submit-ai-tool)                                                           | Profile / Directory |
+| Stork                    | Free |          50 | [https://www.stork.ai](https://www.stork.ai)                                                                                               | Profile / Directory |
+| AI Tools Directory       | Free |          50 | [https://aitoolsdirectory.com/submit-tool](https://aitoolsdirectory.com/submit-tool)                                                       | Profile / Directory |
+| Lib Hunt                 | Free |          50 | [https://libhunt.com](https://libhunt.com)                                                                                                 | Profile / Directory |
+| Apps 400                 | Paid |          50 | [https://apps400.com](https://apps400.com)                                                                                                 | Profile / Directory |
+| U Need                   | Free |          50 | [https://www.uneed.best/submit-a-tool](https://www.uneed.best/submit-a-tool)                                                               | Profile / Directory |
+| We <3 Wordpress          | Paid |          50 | [https://welovewp.com/submit](https://welovewp.com/submit)                                                                                 | Design              |
+| Front-end Developers     | Free |          50 | [http://frontenddevelopers.org](http://frontenddevelopers.org)                                                                             | Social              |
+| Spectacle                | Free |          50 | [https://spectacle.is/submit](https://spectacle.is/submit)                                                                                 | Profile / Directory |
+| Open Startup List        | Free |          50 | [https://openstartuplist.com](https://openstartuplist.com)                                                                                 | Profile / Directory |
+| Appscribed               | Paid |          50 | [https://appscribed.com/product-list](https://appscribed.com/product-list)                                                                 | Profile / Directory |
+| Aitoolnet                | Paid |          49 | [https://www.aitoolnet.com/submit](https://www.aitoolnet.com/submit)                                                                       | Profile / Directory |
+| Startup Tracker          | Free |          49 | [https://startuptracker.io/crowdsourcing/](https://startuptracker.io/crowdsourcing/)                                                       | Profile / Directory |
+| SelectHub                | Free |          49 | [https://selecthub.com](https://selecthub.com)                                                                                             | Profile / Directory |
+| Commerce Cream           | Free |          49 | [https://commercecream.com](https://commercecream.com)                                                                                     | Design              |
+| Startup Dope             | Free |          49 | [https://startupdope.com/submit-news/](https://startupdope.com/submit-news/)                                                               | Profile / Directory |
+| Techendo                 | Free |          49 | [http://techendo.com/beta](http://techendo.com/beta)                                                                                       | Profile / Directory |
+| Insidr.ai                | Free |          48 | [https://www.insidr.ai/submit-tools](https://www.insidr.ai/submit-tools)                                                                   | Profile / Directory |
+| Startup Buffer           | Free |          48 | [https://startupbuffer.com/site/submit](https://startupbuffer.com/site/submit)                                                             | Profile / Directory |
+| Web App Rater            | Paid |          48 | [https://webapprater.com/submit-your-web-application-for-review-html](https://webapprater.com/submit-your-web-application-for-review-html) | Profile / Directory |
+| SaaS Landing Page        | Free |          48 | [https://saaslandingpage.com](https://saaslandingpage.com)                                                                                 | Design              |
+| Cipinet                  | Free |          48 | [https://www.cipinet.com/submit.php](https://www.cipinet.com/submit.php)                                                                   | Profile / Directory |
+| Openfuture               | Free |          48 | [https://openfuture.ai/submit-tool](https://openfuture.ai/submit-tool)                                                                     | Profile / Directory |
+| AI Dude                  | Paid |          48 | [https://aidude.info/submit-your-tool](https://aidude.info/submit-your-tool)                                                               | Profile / Directory |
+| AI Tech Suite            | Paid |          48 | [https://www.aitechsuite.com/submit](https://www.aitechsuite.com/submit)                                                                   | Profile / Directory |
+| AI Tools FYI             | Paid |          47 | [https://aitools.fyi](https://aitools.fyi)                                                                                                 | Profile / Directory |
+| The Startup Inc          | Paid |          47 | [https://thestartupinc.com](https://thestartupinc.com)                                                                                     | Profile / Directory |
+| Pinkary                  | Free |          47 | [https://pinkary.com](https://pinkary.com)                                                                                                 | Social              |
+| Alpha Digits             | Paid |          47 | [https://alphadigits.com/submit-app-for-review](https://alphadigits.com/submit-app-for-review)                                             | Profile / Directory |
+| Tech Faster              | Paid |          47 | [http://techfaster.com/submit-your-company/](http://techfaster.com/submit-your-company/)                                                   | Publication         |
+| Tiny Startups            | Free |          46 | [https://tinystartups.com](https://tinystartups.com)                                                                                       | Profile / Directory |
+| BasedTools               | Paid |          46 | [https://www.basedtools.ai/submit](https://www.basedtools.ai/submit)                                                                       | Profile / Directory |
+| Iuu                      | Free |          46 | [https://iuu.ai/submit](https://iuu.ai/submit)                                                                                             | Profile / Directory |
+| DoMore.ai                | Paid |          45 | [https://domore.ai/submit-tool](https://domore.ai/submit-tool)                                                                             | Profile / Directory |
+| startups.fyi             | Paid |          45 | [https://startups.fyi](https://startups.fyi)                                                                                               | Profile / Directory |
+| Sidebar                  | Free |          45 | [https://sidebar.io](https://sidebar.io)                                                                                                   | Publication         |
+| Romanian Startups        | Free |          45 | [https://www.romanianstartups.com](https://www.romanianstartups.com)                                                                       | Profile / Directory |
+| Gadget Nutz              | Free |          45 | [https://gadgetnutz.com/contact-us](https://gadgetnutz.com/contact-us)                                                                     | Misc                |
+| MarsX                    | Free |          44 | [https://www.marsx.dev/ai-startups](https://www.marsx.dev/ai-startups)                                                                     | Profile / Directory |
+| The AI Navigator         | Free |          44 | [https://www.theainavigator.com/submit-an-ai-tool](https://www.theainavigator.com/submit-an-ai-tool)                                       | Profile / Directory |
+| Techlo Media             | Paid |          44 | [https://techlomedia.in](https://techlomedia.in)                                                                                           | Publication         |
+| PFolios                  | Free |          44 | [https://pfolios.net](https://pfolios.net)                                                                                                 | Design              |
+| AI Center                | Paid |          43 | [https://aicenter.ai/submit-tools](https://aicenter.ai/submit-tools)                                                                       | Profile / Directory |
+| Launched                 | Free |          43 | [https://launched.io/SubmitStartup](https://launched.io/SubmitStartup)                                                                     | Profile / Directory |
+| StartupBase              | Free |          43 | [https://startupbase.io](https://startupbase.io)                                                                                           | Profile / Directory |
+| No Code List             | Free |          43 | [https://nocodelist.co/submit](https://nocodelist.co/submit)                                                                               | Profile / Directory |
+| Victrays                 | Paid |          43 | [https://victrays.com/submit-ai-tool](https://victrays.com/submit-ai-tool)                                                                 | Profile / Directory |
+| Tools RobinGood          | Free |          42 | [https://tools.robingood.com](https://tools.robingood.com)                                                                                 | Profile / Directory |
+| Apps Thunder             | Paid |          42 | [https://appsthunder.com/submit-your-app/](https://appsthunder.com/submit-your-app/)                                                       | Profile / Directory |
+| Cartcraze                | Free |          42 | [https://cartcraze.com/submit](https://cartcraze.com/submit)                                                                               | Design              |
+| Aixploria                | Paid |          41 | [https://www.aixploria.com/en/add-ai](https://www.aixploria.com/en/add-ai)                                                                 | Profile / Directory |
+| Bunity                   | Paid |          41 | [https://bunity.com](https://bunity.com)                                                                                                   | Profile / Directory |
+| Startup Inspire          | Free |          41 | [https://startupinspire.com](https://startupinspire.com)                                                                                   | Profile / Directory |
+| AI Stage                 | Paid |          40 | [https://aistage.net](https://aistage.net)                                                                                                 | Profile / Directory |
+| Tool Finder              | Paid |          39 | [https://toolfinder.co](https://toolfinder.co)                                                                                             | Misc                |
+| AI Tools One             | Paid |          39 | [https://aitoolsone.com](https://aitoolsone.com)                                                                                           | Profile / Directory |
+| AI Directories           | Free |          39 | [https://www.aidirectori.es](https://www.aidirectori.es)                                                                                   | Profile / Directory |
+| ITQlick                  | Paid |          39 | [https://itqlick.com](https://itqlick.com)                                                                                                 | Publication         |
+| Frameplate               | Free |          39 | [https://frameplate.co](https://frameplate.co)                                                                                             | Design              |
+| AI Parabellum            | Paid |          39 | [https://aiparabellum.com/submit-your-ai-tool](https://aiparabellum.com/submit-your-ai-tool)                                               | Profile / Directory |
+| BAI                      | Free |          38 | [https://bai.tools/submit-ai-tools](https://bai.tools/submit-ai-tools)                                                                     | Profile / Directory |
+| Insane                   | Free |          38 | [https://theinsaneapp.com](https://theinsaneapp.com)                                                                                       | Publication         |
+| Startups.fm              | Free |          38 | [https://www.startups.fm](https://www.startups.fm)                                                                                         | Profile / Directory |
+| Dead Simple Sites        | Free |          38 | [https://deadsimplesites.com](https://deadsimplesites.com)                                                                                 | Design              |
+| The Popular Apps         | Paid |          38 | [http://thepopularapps.com/submit-app](http://thepopularapps.com/submit-app)                                                               | Profile / Directory |
+| Liaise Platform          | Free |          37 | [https://liaiseplatform.com](https://liaiseplatform.com)                                                                                   | Profile / Directory |
+| Apps and Websites        | Free |          37 | [https://appsandwebsites.com](https://appsandwebsites.com)                                                                                 | Profile / Directory |
+| AI Tool Mate             | Paid |          37 | [https://aitoolmate.com](https://aitoolmate.com)                                                                                           | Profile / Directory |
+| Free AI Apps             | Paid |          37 | [https://freeappsai.com/add](https://freeappsai.com/add)                                                                                   | Profile / Directory |
+| All GPTs                 | Free |          36 | [https://allgpts.co](https://allgpts.co)                                                                                                   | Profile / Directory |
+| Resource FYI             | Free |          36 | [https://resource.fyi](https://resource.fyi)                                                                                               | Profile / Directory |
+| Flat Trendz              | Paid |          36 | [https://flattrendz.com/submit-a-site](https://flattrendz.com/submit-a-site)                                                               | Design              |
+| FMHY                     | Free |          36 | [https://fmhy.pages.dev/other/contributing#submitting-a-link](https://fmhy.pages.dev/other/contributing#submitting-a-link)                 | Profile / Directory |
+| HD Robots                | Paid |          35 | [https://hdrobots.com/submit-ai-tool](https://hdrobots.com/submit-ai-tool)                                                                 | Profile / Directory |
+| AI Hub                   | Free |          35 | [https://aihub.org/contribute/](https://aihub.org/contribute/)                                                                             | Publication         |
+| UI Goodies               | Paid |          35 | [https://uigoodies.com](https://uigoodies.com)                                                                                             | Design              |
+| Appoid                   | Paid |          35 | [http://appiod.com/submit-app-for-review](http://appiod.com/submit-app-for-review)                                                         | Profile / Directory |
+| Apps Mamma               | Paid |          35 | [http://appsmamma.com/submit-your-app](http://appsmamma.com/submit-your-app)                                                               | Profile / Directory |
+| Public APIs              | Free |          35 | [https://publicapis.dev](https://publicapis.dev)                                                                                           | Profile / Directory |
+| TechBehemoths            | Free |          34 | [https://techbehemoths.com/companies/get-listed](https://techbehemoths.com/companies/get-listed)                                           | Profile / Directory |
+| Startup Fame             | Free |          34 | [https://startupfa.me](https://startupfa.me)                                                                                               | Profile / Directory |
+| 10 Words                 | Free |          34 | [https://10words.io](https://10words.io)                                                                                                   | Profile / Directory |
+| Dark                     | Free |          34 | [https://www.dark.design](https://www.dark.design)                                                                                         | Design              |
+| Apprater                 | Free |          34 | [https://apprater.net/add](https://apprater.net/add)                                                                                       | Profile / Directory |
+| 1000.tools               | Paid |          33 | [https://1000.tools](https://1000.tools)                                                                                                   | Profile / Directory |
+| Dark Mode Design         | Free |          33 | [https://www.darkmodedesign.com](https://www.darkmodedesign.com)                                                                           | Design              |
+| Flat Ui                  | Free |          33 | [https://flatui.com/submit-flat-ui-designs](https://flatui.com/submit-flat-ui-designs)                                                     | Design              |
+| TYY                      | Paid |          33 | [https://tyy.ai/submit](https://tyy.ai/submit)                                                                                             | Profile / Directory |
+| Directory World          | Paid |          32 | [https://directoryworld.net](https://directoryworld.net)                                                                                   | Profile / Directory |
+| Tekpon                   | Paid |          32 | [https://tekpon.com](https://tekpon.com)                                                                                                   | Profile / Directory |
+| AI Tools Explorer        | Paid |          32 | [https://aitoolsexplorer.com/submit-ai-tool](https://aitoolsexplorer.com/submit-ai-tool)                                                   | Profile / Directory |
+| Ai Valley                | Free |          31 | [https://aivalley.ai/submit-tool](https://aivalley.ai/submit-tool)                                                                         | Profile / Directory |
+| AI Accounting Apps       | Paid |          31 | [https://www.aiaccountingapps.com](https://www.aiaccountingapps.com)                                                                       | Profile / Directory |
+| Startup Collections      | Free |          31 | [https://startupcollections.com](https://startupcollections.com)                                                                           | Profile / Directory |
+| The Tool Bus             | Paid |          31 | [https://www.thetoolbus.ai/ai-tools](https://www.thetoolbus.ai/ai-tools)                                                                   | Profile / Directory |
+| Alive Directory          | Paid |          30 | [https://alivedirectory.com](https://alivedirectory.com)                                                                                   | Profile / Directory |
+| AIToolly                 | Paid |          30 | [https://aitoolly.com/submit](https://aitoolly.com/submit)                                                                                 | Profile / Directory |
+| Neede                    | Free |          29 | [https://neede.co](https://neede.co)                                                                                                       | Design              |
+| Design spells            | Free |          29 | [https://www.designspells.com](https://www.designspells.com)                                                                               | Design              |
+| Taalk                    | Paid |          29 | [https://taalk.com/submit-startup](https://taalk.com/submit-startup)                                                                       | Profile / Directory |
+| PoweredbyAI              | Free |          28 | [https://poweredbyai.app/submit-tool](https://poweredbyai.app/submit-tool)                                                                 | Profile / Directory |
+| Indie Directory          | Paid |          28 | [https://directory.indie-starter.dev](https://directory.indie-starter.dev)                                                                 | Profile / Directory |
+| Saas Css                 | Free |          28 | [https://saascss.com/submit](https://saascss.com/submit)                                                                                   | Design              |
+| Roozna                   | Paid |          28 | [https://roozna.com](https://roozna.com)                                                                                                   | Profile / Directory |
+| Awesome AI Tools         | Paid |          28 | [https://awesomeaitools.com/submit-your-tool](https://awesomeaitools.com/submit-your-tool)                                                 | Profile / Directory |
+| Search Engine OF AI      | Paid |          28 | [https://seofai.com/submit-ai-tool](https://seofai.com/submit-ai-tool)                                                                     | Profile / Directory |
+| AIGO.tools               | Paid |          28 | [https://aigo.tools/submit](https://aigo.tools/submit)                                                                                     | Profile / Directory |
+| OpenTools.AI             | Paid |          27 | [https://opentools.ai](https://opentools.ai)                                                                                               | Profile / Directory |
+| Tip Season               | Free |          27 | [https://tipseason.com](https://tipseason.com)                                                                                             | Profile / Directory |
+| Best Web Design Tools    | Paid |          27 | [https://bestwebdesigntools.com](https://bestwebdesigntools.com)                                                                           | Design              |
+| DropYourAI               | Paid |          27 | [https://www.dropyourai.com/submit-tool](https://www.dropyourai.com/submit-tool)                                                           | Profile / Directory |
+| Toools.design            | Paid |          26 | [https://toools.design](https://toools.design)                                                                                             | Design              |
+| AI Best Tools            | Paid |          26 | [https://aibest.tools](https://aibest.tools)                                                                                               | Profile / Directory |
+| Post Make                | Paid |          26 | [https://postmake.io](https://postmake.io)                                                                                                 | Profile / Directory |
+| Educator Tools           | Paid |          26 | [https://aieducator.tools](https://aieducator.tools)                                                                                       | Profile / Directory |
+| Startup Spotlight        | Paid |          26 | [https://www.startupspotlight.co](https://www.startupspotlight.co)                                                                         | Profile / Directory |
+| Tool Hub                 | Paid |          26 | [https://toolhub.me](https://toolhub.me)                                                                                                   | Profile / Directory |
+| All Mac Apps             | Free |          26 | [https://allmacapps.com](https://allmacapps.com)                                                                                           | Profile / Directory |
+| Boilerplate Hub          | Free |          26 | [https://boilerplatehub.com](https://boilerplatehub.com)                                                                                   | Profile / Directory |
+| Deck Gallery             | Free |          26 | [https://www.deck.gallery](https://www.deck.gallery)                                                                                       | Design              |
+| Landing Pages            | Free |          26 | [https://www.landingpage.fyi](https://www.landingpage.fyi)                                                                                 | Design              |
+| First 100 Users          | Free |          26 | [https://www.first100users.com/submit](https://www.first100users.com/submit)                                                               | Profile / Directory |
+| Altern                   | Paid |          26 | [https://altern.ai/submit#submit-tools](https://altern.ai/submit#submit-tools)                                                             | Profile / Directory |
+| GPTAcademy               | Paid |          26 | [https://www.gptacademy.co/submit](https://www.gptacademy.co/submit)                                                                       | Profile / Directory |
+| AI Depot                 | Free |          25 | [https://aidepot.co](https://aidepot.co)                                                                                                   | Profile / Directory |
+| Alternatives.co          | Free |          25 | [https://alternatives.co](https://alternatives.co)                                                                                         | Profile / Directory |
+| ToolPasta (by Robopost)  | Paid |          25 | [https://robopost.app/en/toolpasta/submit](https://robopost.app/en/toolpasta/submit)                                                       | Profile / Directory |
+| Tailkits.com             | Free |          25 | [https://tailkits.com](https://tailkits.com)                                                                                               | Design              |
+| ToolsPedia               | Paid |          24 | [https://www.toolspedia.io/submit-tool](https://www.toolspedia.io/submit-tool)                                                             | Profile / Directory |
+| Tool List                | Free |          24 | [https://toollist.ai/product/create](https://toollist.ai/product/create)                                                                   | Profile / Directory |
+| Productivity Directory   | Free |          24 | [https://productivity.directory](https://productivity.directory)                                                                           | Profile / Directory |
+| StartupTile              | Paid |          24 | [https://startuptile.com](https://startuptile.com)                                                                                         | Profile / Directory |
+| OSSsoftware.org          | Paid |          24 | [https://osssoftware.org](https://osssoftware.org)                                                                                         | Profile / Directory |
+| AI of The Day            | Free |          22 | [https://aioftheday.com/submit-a-tool](https://aioftheday.com/submit-a-tool)                                                               | Profile / Directory |
+| Canopy Directory         | Free |          22 | [https://www.canopydirectory.com/suggest-tool](https://www.canopydirectory.com/suggest-tool)                                               | Profile / Directory |
+| BufferApps               | Paid |          22 | [https://bufferapps.com](https://bufferapps.com)                                                                                           | Profile / Directory |
+| Mr. Free Tools           | Free |          22 | [https://mrfreetools.com](https://mrfreetools.com)                                                                                         | Profile / Directory |
+| Lachief.io               | Free |          22 | [https://lachief.io](https://lachief.io)                                                                                                   | Profile / Directory |
+| AImojo                   | Paid |          22 | [https://aimojo.io/submit/](https://aimojo.io/submit/)                                                                                     | Profile / Directory |
+| AI Tool Guru             | Free |          21 | [https://aitoolguru.com/submit-ai-tool](https://aitoolguru.com/submit-ai-tool)                                                             | Profile / Directory |
+| AI Tools                 | Free |          21 | [https://aitools.lol](https://aitools.lol)                                                                                                 | Profile / Directory |
+| AI Best Top              | Free |          20 | [https://www.aibesttop.com](https://www.aibesttop.com)                                                                                     | Profile / Directory |
+| Best Of AI               | Paid |          20 | [https://bestofai.com](https://bestofai.com)                                                                                               | Profile / Directory |
+| Saaspo                   | Free |          20 | [https://saaspo.com](https://saaspo.com)                                                                                                   | Design              |
+| MakerMove                | Paid |          20 | [https://www.makermove.com/tools](https://www.makermove.com/tools)                                                                         | Profile / Directory |
+| AI Search                | Paid |          19 | [https://ai-search.io/submit](https://ai-search.io/submit)                                                                                 | Profile / Directory |
+| MavTools                 | Paid |          19 | [https://mavtools.com/list-my-tool](https://mavtools.com/list-my-tool)                                                                     | Profile / Directory |
+| Tool Scout               | Free |          18 | [https://toolscout.ai/submit](https://toolscout.ai/submit)                                                                                 | Profile / Directory |
+| NextGen Tools            | Free |          18 | [https://nextgentools.me/submit-your-tool](https://nextgentools.me/submit-your-tool)                                                       | Profile / Directory |
+| Monkey Ai Tools          | Paid |          18 | [https://www.monkeyaitools.com/submit-tool](https://www.monkeyaitools.com/submit-tool)                                                     | Profile / Directory |
+| ToolsForHumans.ai        | Free |          17 | [https://toolsforhumans.ai](https://toolsforhumans.ai)                                                                                     | Profile / Directory |
+| Gpts Hunter              | Free |          17 | [https://gptshunter.com](https://gptshunter.com)                                                                                           | Profile / Directory |
+| Storefront Design        | Free |          17 | [https://www.storefront.design](https://www.storefront.design)                                                                             | Design              |
+| Awesome Indie            | Free |          17 | [https://awesomeindie.com](https://awesomeindie.com)                                                                                       | Profile / Directory |
+| ToolsFine                | Free |          16 | [https://toolsfine.com](https://toolsfine.com)                                                                                             | Profile / Directory |
+| Entrepreneur's Network   | Free |             | [https://www.linkedin.com/groups/91749](https://www.linkedin.com/groups/91749)                                                             | Social              |
+| r/webdev                 | Free |             | [https://www.reddit.com/r/webdev](https://www.reddit.com/r/webdev)                                                                         | Social              |
+| r/smallbusiness          | Free |             | [https://www.reddit.com/r/smallbusiness](https://www.reddit.com/r/smallbusiness)                                                           | Social              |
+| r/startups               | Free |             | [https://www.reddit.com/r/startups](https://www.reddit.com/r/startups)                                                                     | Social              |
+| r/ArtificialInteligence  | Free |             | [https://www.reddit.com/r/ArtificialInteligence](https://www.reddit.com/r/ArtificialInteligence)                                           | Social              |
+| r/EntrepreneurRideAlong  | Free |             | [https://www.reddit.com/r/EntrepreneurRideAlong](https://www.reddit.com/r/EntrepreneurRideAlong)                                           | Social              |
+| r/Frontend               | Free |             | [https://www.reddit.com/r/Frontend](https://www.reddit.com/r/Frontend)                                                                     | Social              |
+| r/SideProject            | Free |             | [https://www.reddit.com/r/SideProject](https://www.reddit.com/r/SideProject)                                                               | Social              |
+| r/Affiliatemarketing     | Free |             | [https://www.reddit.com/r/Affiliatemarketing](https://www.reddit.com/r/Affiliatemarketing)                                                 | Social              |
+| r/SaaS                   | Free |             | [https://www.reddit.com/r/SaaS](https://www.reddit.com/r/SaaS)                                                                             | Social              |
+| r/startup                | Free |             | [https://www.reddit.com/r/startup](https://www.reddit.com/r/startup)                                                                       | Social              |
+| r/design_critiques       | Free |             | [https://www.reddit.com/r/design_critiques](https://www.reddit.com/r/design_critiques)                                                     | Social              |
+| r/thesidehustle          | Free |             | [https://www.reddit.com/r/thesidehustle](https://www.reddit.com/r/thesidehustle)                                                           | Social              |
+| r/Startup_Ideas          | Free |             | [https://www.reddit.com/r/Startup_Ideas](https://www.reddit.com/r/Startup_Ideas)                                                           | Social              |
+| r/growmybusiness         | Free |             | [https://www.reddit.com/r/growmybusiness](https://www.reddit.com/r/growmybusiness)                                                         | Social              |
+| r/Entrepreneurs          | Free |             | [https://www.reddit.com/r/Entrepreneurs](https://www.reddit.com/r/Entrepreneurs)                                                           | Social              |
+| r/indiehackers           | Free |             | [https://www.reddit.com/r/indiehackers](https://www.reddit.com/r/indiehackers)                                                             | Social              |
+| r/indiebiz               | Free |             | [https://www.reddit.com/r/indiebiz](https://www.reddit.com/r/indiebiz)                                                                     | Social              |
+| r/alphaandbetausers      | Free |             | [https://www.reddit.com/r/alphaandbetausers](https://www.reddit.com/r/alphaandbetausers)                                                   | Social              |
+| r/microsaas              | Free |             | [https://www.reddit.com/r/microsaas](https://www.reddit.com/r/microsaas)                                                                   | Social              |
+| r/ProductHunters         | Free |             | [https://www.reddit.com/r/ProductHunters](https://www.reddit.com/r/ProductHunters)                                                         | Social              |
+| r/IMadeThis              | Free |             | [https://www.reddit.com/r/IMadeThis](https://www.reddit.com/r/IMadeThis)                                                                   | Social              |
+| r/roastmystartup         | Free |             | [https://www.reddit.com/r/roastmystartup](https://www.reddit.com/r/roastmystartup)                                                         | Social              |
 
 
 
