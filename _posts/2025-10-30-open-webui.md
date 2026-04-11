@@ -14,7 +14,7 @@ toc: true
 toc_sticky: true
 ---
 
-# open-webui on Raspi 
+# Open-webui on Raspi 
 
 
 ## DL Raspi OS, ssh, user 

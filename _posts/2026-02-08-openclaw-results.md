@@ -58,7 +58,7 @@ pnpm openclaw gateway --verbose --raw-stream --ws-log full
 
 
 
-## REsults 
+## Results 
 
 ![](../_asset/2026-02-08-openclaw-results-1770569903651.webp)
 
