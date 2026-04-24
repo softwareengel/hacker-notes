@@ -16,7 +16,7 @@ toc_sticky: true
 ![](../_asset/2026-04-21-sql-trainer-1776804780121.webp)
 # SQL Trainer for Academic and Play: a zero-install SQLite playground that runs in your browser
 
-TLDR: Check <https://softwareengel.github.io/hacker-codes/>
+TL/DR: Check <https://softwareengel.github.io/hacker-codes/>
  
 
 If you’ve ever tried to teach (or learn) SQL in a classroom, you know the “first hour problem”: installing a database, setting up credentials, dealing with different OSes, and then explaining why a query fails for reasons unrelated to SQL.
