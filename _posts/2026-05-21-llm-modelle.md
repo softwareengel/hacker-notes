@@ -1,5 +1,15 @@
+---
+title: llm-modelle
+tags:
+  - LLM
+  - llm-generated
+date: 2026-05-29
+toc: true
+toc_sticky: true
+---
 
-# Q Gtp5: rstelle liste von LLM : Firma , LLM Name, LLM Version , Releasedatum, größe kontext fenster , auf rtx5070ti möglich , auf dgx spark möglich , relative token / sek schätzung , recherchiere auch im web
+
+# Q Gtp5: Erstelle liste von LLM : Firma , LLM Name, LLM Version , Releasedatum, größe kontext fenster , auf rtx5070ti möglich , auf dgx spark möglich , relative token / sek schätzung , recherchiere auch im web
 ## A
 Hier ist eine **praxisorientierte LLM-Liste** mit Hardware-Einschätzung für **RTX 5070 Ti** und **NVIDIA DGX Spark**.
 
