@@ -37,7 +37,6 @@ toc_sticky: true
 
 ## Links
 
-- App 
-https://panini.turinginstitut.bid/
-- Bei Problemen
-https://panini.turinginstitut.bid/reset
+- App <https://panini.turinginstitut.bid/>
+- Bei Problemen <https://panini.turinginstitut.bid/reset>
+
