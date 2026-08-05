@@ -1,6 +1,6 @@
 ---
-title: 
-tags: 
+title: websiteSpec
+tags:
 date: 2026-05-31
 toc: true
 toc_sticky: true
