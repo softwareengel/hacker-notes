@@ -1,11 +1,16 @@
 
-# 
-## 
+# codingagents-diy CC
+
+Beispiel : https://softwareengel.github.io/hacker-codes/web-java-ide/
+
+## plan GPT
+
 ![](../_asset/2026-09-14-codingagents-diy-1789407073413.webp)
 
 ![](../_asset/2026-09-14-codingagents-diy-1789407098557.webp)
 ![](../_asset/2026-09-14-codingagents-diy-1789407111464.webp)
 
+### prompt
 
 
 ```text
@@ -278,6 +283,8 @@ After creating the framework:
 
 ## CC
 
+### Projekt DESC
+
 ![](../_asset/2026-09-14-codingagents-diy-1789407205027.webp)
 
 
@@ -295,3 +302,33 @@ After creating the framework:
 
 ![](../_asset/2026-09-14-codingagents-diy-1789416405574.webp)
 
+## Sprint 4/6 
+
+
+![](../_asset/2026-09-14-codingagents-diy-1789419441521.webp)
+
+## usage 
+
+![](../_asset/2026-09-14-codingagents-diy-1789421417297.webp)
+
+
+![](../_asset/2026-09-14-codingagents-diy-1789421470287.webp)
+## Demo
+
+![](../_asset/2026-09-14-codingagents-diy-1789423875648.webp)
+
+
+![](../_asset/2026-09-14-codingagents-diy-1789424517595.webp)
+
+
+![](../_asset/2026-09-14-codingagents-diy-1789424529268.webp)
+
+
+![](../_asset/2026-09-14-codingagents-diy-1789424570446.webp)
+![](../_asset/2026-09-14-codingagents-diy-1789424585834.webp)
+
+
+![](../_asset/2026-09-14-codingagents-diy-1789424604015.webp)
+
+
+![](../_asset/2026-09-14-codingagents-diy-1789424619114.webp)
