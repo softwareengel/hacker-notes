@@ -11,4 +11,3 @@
 
 
 ![Halloween-Einladung-animiert](../_asset/Halloween-Einladung-animiert.gif)
-sync
