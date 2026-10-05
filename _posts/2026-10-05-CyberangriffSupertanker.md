@@ -1,11 +1,10 @@
 ---
-title: 
-tags: 
+title: CyberangriffSupertanker
+tags:
 date: 2026-10-05
 toc: true
 toc_sticky: true
 ---
-
 # Bericht: Bei Cyberangriff Zugriff auf Antrieb von Öl-Supertanker erlangt
 
 
