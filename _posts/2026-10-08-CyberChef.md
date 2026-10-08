@@ -1,6 +1,8 @@
 ---
-title:
+title: CyberChef
 tags:
+  - encoding
+  - encryption
 date: 2026-10-08
 toc: true
 toc_sticky: true
