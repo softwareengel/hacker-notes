@@ -10,7 +10,8 @@ Beispiel : https://softwareengel.github.io/hacker-codes/web-java-ide/
 ![](../_asset/2026-09-14-codingagents-diy-1789407098557.webp)
 ![](../_asset/2026-09-14-codingagents-diy-1789407111464.webp)
 
-### prompt
+### Prompt Master Sprint Orchestrator 
+
 
 
 ```text
@@ -281,7 +282,7 @@ After creating the framework:
 ```
 
 
-## CC
+## Claude Code CC
 
 ### Projekt DESC
 
