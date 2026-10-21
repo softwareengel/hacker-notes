@@ -1,5 +1,5 @@
 ---
-title: CyberangriffSupertanker
+title: Cyberangriff Supertanker
 tags:
 date: 2026-10-05
 toc: true
