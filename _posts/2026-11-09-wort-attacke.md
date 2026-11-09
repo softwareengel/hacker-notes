@@ -314,23 +314,15 @@ Diese Story verdichtet alle sieben im Screenshot genannten Projektsitzungen. Die
 
   
 
-| Sitzung | Beginn | Beitrag zur Geschichte |
-
-|---|---|---|
-
-| Bilder aus Ordner A in md-Tabelle | 07.11.2026 | Neun Fotos, Spielidee, Monsterkampf, Überspringen, erste mobile Prüfungen |
-
-| hochant mobile display test | 07.11.2026 | Hochformat, alternative Antworten, Trankzähler und mehrere Heiltränke |
-
-| Shop für magische Anziehsachen | 07.11.2026 | Shop, Bildvorlagen, Ausrüstung, Monsterdetails und weitere Eingabeverbesserungen |
-
-| Startseite für Lernspiel erstellen | 08.11.2026 | Sprachwahl, Lateinmodus und gemeinsame Spielwelt |
-
-| Latein Vokabeln aus Bildern | 09.11.2026 | Weitere Vokabeln, Bereinigungsskript, Lektionsauswahl und Profile |
-
-| deutsche Eingaben für md Eintrag | 09.11.2026 | Mehrere Bedeutungen, konkreter Browsernachtest und Cache-Diagnose |
-
-| log data to Loki endpoint | 09.11.2026 | Ereignisprotokollierung, synthetischer Test-Push und Veröffentlichungsdiagnose |
+| Sitzung                            | Beginn     | Beitrag zur Geschichte                                                           |
+| ---------------------------------- | ---------- | -------------------------------------------------------------------------------- |
+| Bilder aus Ordner A in md-Tabelle  | 07.11.2026 | Neun Fotos, Spielidee, Monsterkampf, Überspringen, erste mobile Prüfungen        |
+| hochant mobile display test        | 07.11.2026 | Hochformat, alternative Antworten, Trankzähler und mehrere Heiltränke            |
+| Shop für magische Anziehsachen     | 07.11.2026 | Shop, Bildvorlagen, Ausrüstung, Monsterdetails und weitere Eingabeverbesserungen |
+| Startseite für Lernspiel erstellen | 08.11.2026 | Sprachwahl, Lateinmodus und gemeinsame Spielwelt                                 |
+| Latein Vokabeln aus Bildern        | 09.11.2026 | Weitere Vokabeln, Bereinigungsskript, Lektionsauswahl und Profile                |
+| deutsche Eingaben für md Eintrag   | 09.11.2026 | Mehrere Bedeutungen, konkreter Browsernachtest und Cache-Diagnose                |
+| log data to Loki endpoint          | 09.11.2026 | Ereignisprotokollierung, synthetischer Test-Push und Veröffentlichungsdiagnose   |
 
 
 ___
