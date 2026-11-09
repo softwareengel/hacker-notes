@@ -1,5 +1,5 @@
 ---
-title: Wort-Attacke - Lersnpiel
+title: Wort-Attacke - Lernspiel
 tags:
   - Diy
   - trainer
