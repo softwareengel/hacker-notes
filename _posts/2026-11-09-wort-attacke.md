@@ -132,7 +132,9 @@ Mit dem Shop erhält das Lernen eine zweite Belohnungsebene. Richtige Antworten 
 
 Dann kommen eigene Bildvorlagen ins Spiel. Ein Magier aus einem vorhandenen Bild wird freigestellt und als **Lila Sternenmagier** angeboten. Sein Preis wird im nächsten Schritt auf **3.000 Münzen** festgelegt. Auch die Grafik wird nachgebessert: weichere Kanten, keine störende weiße Fläche zwischen Körper und Stab.
 
-  
+
+![](../_asset/2026-11-09-wort-attacke-1794246633812.webp)
+
 
 Besonders greifbar wird die Gestaltung beim Schwert aus der Vorlage „Schwert Arnos Spiel“. Es wird für die Spielfigur vorbereitet und als **Arnos Wort-Attacke-Schwert** in den Shop aufgenommen.
 
