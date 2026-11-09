@@ -9,6 +9,7 @@ date: 2026-11-09
 toc: true
 toc_sticky: true
 ---
+![](../_asset/2026-11-09-wort-attacke-1794246767013.webp)
 
 # Vom Vokabelfoto zum Monsterkampf: Wie Wort-Attacke mit GitHub Copilot entstand
 
