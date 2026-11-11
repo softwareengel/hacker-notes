@@ -125,7 +125,9 @@ Die Lektion daraus ist angenehm handfest: „Responsiv“ ist erst dann etwas we
 
 ## Ein Magier, der nicht von der Stange kommt
 
-  
+
+![](../_asset/2026-11-09-wort-attacke-1794393873432.webp)
+
 
 Mit dem Shop erhält das Lernen eine zweite Belohnungsebene. Richtige Antworten bringen Münzen, besiegte Monster einen Bonus. Davon lassen sich Gewänder und Hüte kaufen; die Hautfarbe bleibt kostenlos wählbar.
 
