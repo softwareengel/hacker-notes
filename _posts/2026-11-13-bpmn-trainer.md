@@ -35,7 +35,7 @@ The editor is based on bpmn-js. **New** loads a starter diagram; the context pad
 
 ### Video: modelling best practice
 
-<video src="./media/videos/editing-best-practice.webm" controls width="100%" poster="./media/screenshots/02-editor-context-pad.png"></video>
+<video src="../_asset/videos/editing-best-practice.webm" controls width="100%" poster="../_asset/screenshots/02-editor-context-pad.png"></video>
 
 ▶ [editing-best-practice.webm](../_asset/videos/editing-best-practice.webm) (about 1:45, German captions)
 
@@ -101,7 +101,7 @@ The **Token Simulation** switch at the top left enables the animated simulation 
 
 ### Video: token simulation
 
-<video src="./media/videos/token-simulation.webm" controls width="100%" poster="./media/screenshots/10-replay-branch-choice.png"></video>
+<video src="../_asset/videos/token-simulation.webm" controls width="100%" poster="../_asset/screenshots/10-replay-branch-choice.png"></video>
 
 ▶ [token-simulation.webm](../_asset/videos/token-simulation.webm) (about 1:50, German captions)
 
@@ -178,7 +178,7 @@ Each run draws a new random seed, so the numbers vary slightly between runs. In 
 
 ### Video: calculation simulation, Szenario 1 vs. Szenario 2
 
-<video src="./media/videos/calculation-simulation.webm" controls width="100%" poster="./media/screenshots/19-szenario1-results.png"></video>
+<video src="../_asset/videos/calculation-simulation.webm" controls width="100%" poster="../_asset/screenshots/19-szenario1-results.png"></video>
 
 ▶ [calculation-simulation.webm](../_asset/videos/calculation-simulation.webm) (about 1:50, German captions)
 
