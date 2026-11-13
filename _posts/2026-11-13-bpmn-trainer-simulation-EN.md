@@ -1,5 +1,5 @@
 ---
-title: BPMN Trainer and Simulator
+title: BPMN Trainer and Simulator-EN
 tags:
 date: 2026-11-13
 toc: true
