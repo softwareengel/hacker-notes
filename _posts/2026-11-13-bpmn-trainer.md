@@ -27,17 +27,17 @@ bpmnsim combines a BPMN editor, a token replay and a resource-constrained calcul
 
 The editor is based on bpmn-js. **New** loads a starter diagram; the context pad appends tasks, gateways and events directly at the selected element.
 
-![Editor with starter diagram](./media/screenshots/01-editor-starter.png)
+![Editor with starter diagram](../_asset/screenshots/01-editor-starter.png)
 *The editor with the starter diagram: start event, task, end event.*
 
-![Context pad of a task](./media/screenshots/02-editor-context-pad.png)
+![Context pad of a task](../_asset/screenshots/02-editor-context-pad.png)
 *The context pad of a selected task: append elements, connect, change the type, or delete.*
 
 ### Video: modelling best practice
 
 <video src="./media/videos/editing-best-practice.webm" controls width="100%" poster="./media/screenshots/02-editor-context-pad.png"></video>
 
-▶ [editing-best-practice.webm](./media/videos/editing-best-practice.webm) (about 1:45, German captions)
+▶ [editing-best-practice.webm](../_asset/videos/editing-best-practice.webm) (about 1:45, German captions)
 
 The video builds a small order process step by step and shows nine practices:
 
@@ -59,12 +59,12 @@ Six example diagrams cover the core patterns from introductory courses. The four
 
 | Pattern | Screenshot |
 | --- | --- |
-| Linear sequence ([01-linear.bpmn](../e2e/fixtures/examples/01-linear.bpmn)) | ![Linear](./media/screenshots/03-example-linear.png) |
-| Exclusive decision, XOR ([02-xor-decision.bpmn](../e2e/fixtures/examples/02-xor-decision.bpmn)) | ![XOR](./media/screenshots/04-example-xor-decision.png) |
-| Parallel split/join, AND ([03-parallel.bpmn](../e2e/fixtures/examples/03-parallel.bpmn)) | ![AND](./media/screenshots/05-example-parallel.png) |
-| University application with lanes ([04-lanes-university.bpmn](../e2e/fixtures/examples/04-lanes-university.bpmn)) | ![University lanes](./media/screenshots/06-example-lanes-university.png) |
-| Simple two-lane process ([lanes.bpmn](../e2e/fixtures/lanes.bpmn)) | ![Two lanes](./media/screenshots/07-example-lanes-simple.png) |
-| Request/response collaboration ([diag_req_resp.bpmn](../testdata/diag_req_resp.bpmn)) | ![Collaboration](./media/screenshots/08-example-collaboration.png) |
+| Linear sequence ([01-linear.bpmn](../e2e/fixtures/examples/01-linear.bpmn)) | ![Linear](../_asset/screenshots/03-example-linear.png) |
+| Exclusive decision, XOR ([02-xor-decision.bpmn](../e2e/fixtures/examples/02-xor-decision.bpmn)) | ![XOR](../_asset/screenshots/04-example-xor-decision.png) |
+| Parallel split/join, AND ([03-parallel.bpmn](../e2e/fixtures/examples/03-parallel.bpmn)) | ![AND](../_asset/screenshots/05-example-parallel.png) |
+| University application with lanes ([04-lanes-university.bpmn](../e2e/fixtures/examples/04-lanes-university.bpmn)) | ![University lanes](../_asset/screenshots/06-example-lanes-university.png) |
+| Simple two-lane process ([lanes.bpmn](../e2e/fixtures/lanes.bpmn)) | ![Two lanes](../_asset/screenshots/07-example-lanes-simple.png) |
+| Request/response collaboration ([diag_req_resp.bpmn](../testdata/diag_req_resp.bpmn)) | ![Collaboration](../_asset/screenshots/08-example-collaboration.png) |
 
 The collaboration example is useful for discussing pools and message flows. The simulator does not execute message flows, however: each pool runs on its own tokens.
 
@@ -76,34 +76,34 @@ The collaboration example is useful for discussing pools and message flows. The 
 
 In **Replay** mode a red token walks through the process. **▶ Play** runs it automatically, and **⏭ Step** advances it one hop at a time.
 
-![Replay token](./media/screenshots/09-replay-token.png)
+![Replay token](../_asset/screenshots/09-replay-token.png)
 *The red token after the first step.*
 
 At an exclusive gateway the replay stops. Numbered buttons mark the possible paths, and the student decides.
 
-![XOR branch choice](./media/screenshots/10-replay-branch-choice.png)
+![XOR branch choice](../_asset/screenshots/10-replay-branch-choice.png)
 *Path choice at "Unterlagen vollständig?": 1 = ja, 2 = nein.*
 
 At a parallel gateway the token splits. The join waits until both tokens have arrived.
 
-![AND split](./media/screenshots/11-replay-parallel-split.png)
+![AND split](../_asset/screenshots/11-replay-parallel-split.png)
 *After the AND split, "Material bestellen" and "Team einplanen" run in parallel.*
 
 ### Animated token simulation (bpmn-js)
 
 The **Token Simulation** switch at the top left enables the animated simulation from bpmn-js. Start events can be triggered, gateway paths can be fixed in advance, and a log records every step.
 
-![Token simulation mode](./media/screenshots/12-token-simulation-mode.png)
+![Token simulation mode](../_asset/screenshots/12-token-simulation-mode.png)
 *Simulation mode on: trigger buttons at the start event, path control at the gateway.*
 
-![Token simulation running](./media/screenshots/13-token-simulation-running.png)
+![Token simulation running](../_asset/screenshots/13-token-simulation-running.png)
 *A token on its way, with the event log at the bottom left.*
 
 ### Video: token simulation
 
 <video src="./media/videos/token-simulation.webm" controls width="100%" poster="./media/screenshots/10-replay-branch-choice.png"></video>
 
-▶ [token-simulation.webm](./media/videos/token-simulation.webm) (about 1:50, German captions)
+▶ [token-simulation.webm](../_asset/videos/token-simulation.webm) (about 1:50, German captions)
 
 The video shows:
 
@@ -118,7 +118,7 @@ The video shows:
 
 In **Stochastic** mode bpmnsim simulates many cases at once. Each task has a duration and a cost, gateways have probabilities, and lanes become resource pools with a weekly working calendar (Monday to Friday). When a role is busy, cases queue.
 
-![Simulation view](./media/screenshots/14-simulation-view.png)
+![Simulation view](../_asset/screenshots/14-simulation-view.png)
 *The simulation view: results sidebar on the right, scenario tabs at the bottom.*
 
 ### Configuration: Szenario 1 (baseline)
@@ -127,13 +127,13 @@ The configuration has four tabs: Kosten (cost), Dauer (duration), Häufigkeit (f
 
 | Kosten | Dauer |
 | --- | --- |
-| ![Costs](./media/screenshots/15-config-kosten.png) | ![Durations](./media/screenshots/16-config-dauer.png) |
+| ![Costs](../_asset/screenshots/15-config-kosten.png) | ![Durations](../_asset/screenshots/16-config-dauer.png) |
 | **Häufigkeit** | **Ressourcen** |
-| ![Frequency](./media/screenshots/17-config-haeufigkeit.png) | ![Resources](./media/screenshots/18-config-ressourcen.png) |
+| ![Frequency](../_asset/screenshots/17-config-haeufigkeit.png) | ![Resources](../_asset/screenshots/18-config-ressourcen.png) |
 
 Szenario 2 is created with **+** as a copy of Szenario 1. Only the two values marked in bold below change.
 
-![Szenario 2 resources](./media/screenshots/20-szenario2-config-ressourcen.png)
+![Szenario 2 resources](../_asset/screenshots/20-szenario2-config-ressourcen.png)
 *Szenario 2: Verwaltung with 2 persons and 80 h/week.*
 
 | Parameter | Szenario 1 | Szenario 2 |
@@ -151,10 +151,10 @@ Weekly hours are the **total for the role**, not per person.
 
 ### Results
 
-![Szenario 1 results](./media/screenshots/19-szenario1-results.png)
+![Szenario 1 results](../_asset/screenshots/19-szenario1-results.png)
 *Szenario 1: the Verwaltung tasks are marked red as the bottleneck. The badges count task executions.*
 
-![Szenario 2 results](./media/screenshots/21-szenario2-results.png)
+![Szenario 2 results](../_asset/screenshots/21-szenario2-results.png)
 *Szenario 2: the same model with more capacity and a faster check.*
 
 The values in these screenshots:
@@ -180,7 +180,7 @@ Each run draws a new random seed, so the numbers vary slightly between runs. In 
 
 <video src="./media/videos/calculation-simulation.webm" controls width="100%" poster="./media/screenshots/19-szenario1-results.png"></video>
 
-▶ [calculation-simulation.webm](./media/videos/calculation-simulation.webm) (about 1:50, German captions)
+▶ [calculation-simulation.webm](../_asset/videos/calculation-simulation.webm) (about 1:50, German captions)
 
 The video:
 

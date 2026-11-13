@@ -13,9 +13,9 @@ Der normale Testlauf `npm run test:e2e` ignoriert `e2e/media/`.
 
 | Datei | Inhalt | Spec |
 | --- | --- | --- |
-| [editing-best-practice.webm](videos/editing-best-practice.webm) | Modellieren nach Best Practice: Ereignisse als Zustand, Aufgaben „Objekt + Verb“, Gateway als Frage, beschriftete Ausgänge, benannte Endzustände, Aufgabe vergrößern, Pool + Lanes, Prüfen per Replay, Speichern | [video-editing.spec.ts](../../e2e/media/video-editing.spec.ts) |
-| [token-simulation.webm](videos/token-simulation.webm) | Replay mit XOR-Entscheidung (Play und Step), AND-Split/Join, animierte bpmn-js-Token-Simulation mit gesetztem Gateway-Pfad, „Ein Fall“ aus der Simulationsansicht | [video-token-simulation.spec.ts](../../e2e/media/video-token-simulation.spec.ts) |
-| [calculation-simulation.webm](videos/calculation-simulation.webm) | Kalkulations-Simulation am Hochschul-Bewerbungsprozess: Szenario 1 und Szenario 2 mit eigenen Werten, Ergebnisvergleich, Excel-Export | [video-calculation-simulation.spec.ts](../../e2e/media/video-calculation-simulation.spec.ts) |
+| [editing-best-practice.webm](../../_asset/videos/editing-best-practice.webm) | Modellieren nach Best Practice: Ereignisse als Zustand, Aufgaben „Objekt + Verb“, Gateway als Frage, beschriftete Ausgänge, benannte Endzustände, Aufgabe vergrößern, Pool + Lanes, Prüfen per Replay, Speichern | [video-editing.spec.ts](../../e2e/media/video-editing.spec.ts) |
+| [token-simulation.webm](../../_asset/videos/token-simulation.webm) | Replay mit XOR-Entscheidung (Play und Step), AND-Split/Join, animierte bpmn-js-Token-Simulation mit gesetztem Gateway-Pfad, „Ein Fall“ aus der Simulationsansicht | [video-token-simulation.spec.ts](../../e2e/media/video-token-simulation.spec.ts) |
+| [calculation-simulation.webm](../../_asset/videos/calculation-simulation.webm) | Kalkulations-Simulation am Hochschul-Bewerbungsprozess: Szenario 1 und Szenario 2 mit eigenen Werten, Ergebnisvergleich, Excel-Export | [video-calculation-simulation.spec.ts](../../e2e/media/video-calculation-simulation.spec.ts) |
 
 ### Werte der Kalkulations-Simulation
 
