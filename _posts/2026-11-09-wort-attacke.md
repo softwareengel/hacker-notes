@@ -13,7 +13,7 @@ toc_sticky: true
 
 # Vom Vokabelfoto zum Monsterkampf: Wie Wort-Attacke mit GitHub Copilot entstand
 
-TL;DR: https://softwareengel.github.io/Arno-Lernspiel/
+TL;DR: <https://softwareengel.github.io/Arno-Lernspiel/>
 
 
 *Eine Projektgeschichte aus sieben Chat-Sitzungen vom 7. bis 9. November 2026.*
