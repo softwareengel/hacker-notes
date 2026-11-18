@@ -421,6 +421,7 @@ Note
 - The first Class has worked with it - today ;-) 
 
 ## Onboarding Slides 
+
 ![](../_asset/VL_Anwendungs-und%20Softwaresysteme_KE1_RDBMS_ve_05_SQL-Trainer.pdf)
 
 
