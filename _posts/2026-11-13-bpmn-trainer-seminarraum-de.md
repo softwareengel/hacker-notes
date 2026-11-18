@@ -8,6 +8,10 @@ toc_sticky: true
 
 # Modellieren, nachspielen, simulieren: Ein BPMN-Trainer für den Seminarraum
 
+TL/DR:  https://softwareengel.github.io/bpmnsim/
+
+![](../_asset/2026-11-13-bpmn-trainer-seminarraum-de-1795000778626.webp)
+
 
 - Medien: 21 Screenshots und 3 Videos, mit Playwright erstellt und in [media/readme.md](./media/readme.md) aufgelistet.
 
