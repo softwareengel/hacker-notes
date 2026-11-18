@@ -37,8 +37,6 @@ The result is a small, static web app: an interactive SQL training platform that
 
 A client-side SQL learning environment that lets you:
 
-  
-
 - Load a sample database (e.g. employees, e-commerce, school, countries/counties)
 
 - Browse example SQL files by topic (basics → joins → aggregations → subqueries → advanced → DDL/DML)
@@ -47,9 +45,7 @@ A client-side SQL learning environment that lets you:
 
 - Save queries and keep a local query history (IndexedDB)
 
-- Export results (CSV/JSON)
-
-  
+- Export results (CSV/JSON)  
 
 It is intentionally “just HTML/CSS/JS”, because the goal is to be deployable anywhere static files can live (GitHub Pages included) and to be easy to understand and extend in an academic context.
 
