@@ -8,6 +8,10 @@ toc_sticky: true
 
 # Modellieren, nachspielen, simulieren: Ein BPMN-Trainer für den Seminarraum
 
+TL/DR:  https://softwareengel.github.io/bpmnsim/
+
+![](../_asset/2026-11-13-bpmn-trainer-seminarraum-de-1795000778626.webp)
+
 
 - Medien: 21 Screenshots und 3 Videos, mit Playwright erstellt und in [media/readme.md](./media/readme.md) aufgelistet.
 
@@ -57,16 +61,21 @@ Das Video erstellt Schritt für Schritt einen kleinen Bestellprozess und zeigt n
 
 Sechs Beispieldiagramme decken die grundlegenden Muster aus Einführungskursen ab. Die vier neuen Beispiele liegen unter [e2e/fixtures/examples](../e2e/fixtures/examples/).
 
-| Muster | Screenshot |
-| --- | --- |
-| Lineare Abfolge ([01-linear.bpmn](../e2e/fixtures/examples/01-linear.bpmn)) | ![Linearer Ablauf](../_asset/screenshots/03-example-linear.png) |
-| Exklusive Entscheidung, XOR ([02-xor-decision.bpmn](../e2e/fixtures/examples/02-xor-decision.bpmn)) | ![XOR](../_asset/screenshots/04-example-xor-decision.png) |
-| Parallele Aufspaltung/Zusammenführung, AND ([03-parallel.bpmn](../e2e/fixtures/examples/03-parallel.bpmn)) | ![AND](../_asset/screenshots/05-example-parallel.png) |
+| Muster                                                                                                       | Screenshot                                                                          |
+| ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
+| Lineare Abfolge ([01-linear.bpmn](../e2e/fixtures/examples/01-linear.bpmn))                                  | ![Linearer Ablauf](../_asset/screenshots/03-example-linear.png)                     |
+| Exklusive Entscheidung, XOR ([02-xor-decision.bpmn](../e2e/fixtures/examples/02-xor-decision.bpmn))          | ![XOR](../_asset/screenshots/04-example-xor-decision.png)                           |
+| Parallele Aufspaltung/Zusammenführung, AND ([03-parallel.bpmn](../e2e/fixtures/examples/03-parallel.bpmn))   | ![AND](../_asset/screenshots/05-example-parallel.png)                               |
 | Hochschulbewerbung mit Lanes ([04-lanes-university.bpmn](../e2e/fixtures/examples/04-lanes-university.bpmn)) | ![Lanes im Hochschulprozess](../_asset/screenshots/06-example-lanes-university.png) |
-| Einfacher Prozess mit zwei Lanes ([lanes.bpmn](../e2e/fixtures/lanes.bpmn)) | ![Zwei Lanes](../_asset/screenshots/07-example-lanes-simple.png) |
-| Zusammenarbeit mit Anfrage und Antwort ([diag_req_resp.bpmn](../testdata/diag_req_resp.bpmn)) | ![Zusammenarbeit](../_asset/screenshots/08-example-collaboration.png) |
+| Einfacher Prozess mit zwei Lanes ([lanes.bpmn](../e2e/fixtures/lanes.bpmn))                                  | ![Zwei Lanes](../_asset/screenshots/07-example-lanes-simple.png)                    |
+| Zusammenarbeit mit Anfrage und Antwort ([diag_req_resp.bpmn](../testdata/diag_req_resp.bpmn))                | ![Zusammenarbeit](../_asset/screenshots/08-example-collaboration.png)               |
 
 Das Beispiel zur Zusammenarbeit eignet sich gut, um Pools und Nachrichtenflüsse zu besprechen. Der Simulator führt Nachrichtenflüsse allerdings nicht aus: Jeder Pool arbeitet mit eigenen Token.
+
+###  Video: Beispiel mit Anfrage und Antwort (Request / Response; Client /Server; Bestellung/ Bestellbestätigung) 
+ 
+<video src="../_asset/BPMN%20-%20TRainer%20-%20SIM%20-%20Aufzeichnung%202026-08-01%20135933%201.mp4" controls width="100%" poster="../_asset/screenshots/08-example-collaboration.png"></video>
+
 
 ---
 

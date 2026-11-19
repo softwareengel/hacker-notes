@@ -1,3 +1,15 @@
+---
+title: darkpattern
+tags:
+  - darkpattern
+date: 2026-11-18
+toc: true
+toc_sticky: true
+---
+
+
+# darkpattern
+
 Stop big tech from making users behave in ways they don’t want to
 That means targeting mechanisms engineered to rewire the brain’s reward system, writes Marie Potel-Saville
 

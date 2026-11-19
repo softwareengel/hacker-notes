@@ -1,6 +1,10 @@
 ---
 title: BPMN Trainer and Simulator-EN
 tags:
+  - bpmn
+  - simulation
+  - Diy
+  - WebApp
 date: 2026-11-13
 toc: true
 toc_sticky: true
