@@ -14,6 +14,7 @@ toc_sticky: true
 
 
 ![](../_asset/2026-04-21-sql-trainer-1776804780121.webp)
+
 # SQL Trainer for Academic and Play: a zero-install SQLite playground that runs in your browser
 
 TL/DR: Check <https://softwareengel.github.io/hacker-codes/>
@@ -421,6 +422,8 @@ Note
 - The first Class has worked with it - today ;-) 
 
 ## Onboarding Slides 
+
+
 ![](../_asset/VL_Anwendungs-und%20Softwaresysteme_KE1_RDBMS_ve_05_SQL-Trainer.pdf)
 
 
