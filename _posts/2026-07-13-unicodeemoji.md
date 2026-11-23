@@ -1,3 +1,13 @@
+---
+title: Full Emoji List, v18.0
+tags:
+  - unicode
+  - Emoji
+date: 2026-11-23
+toc: true
+toc_sticky: true
+---
+
 
 # Full Emoji List, v18.0
 
