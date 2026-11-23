@@ -22,3 +22,5 @@ A free and open visual editor for the [MapLibre GL styles](https://maplibre.org/
 https://maputnik.github.io/editor/#16.87/51.514349/7.459959
 
 https://github.com/maplibre/maputnik
+
+https://github.com/maplibre/maputnik/wiki
