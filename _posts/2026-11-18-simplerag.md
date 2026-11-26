@@ -1,13 +1,12 @@
 ---
-title:
+title: simple RAG
 tags:
+  - RAG
+  - Diy
 date: 2026-11-18
 toc: true
 toc_sticky: true
 ---
-
-
-
 # DIY RAG 
 ## openrag 
 
