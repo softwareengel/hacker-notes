@@ -14,7 +14,9 @@
 
 
 ## ToDo 
-- Dual Sim - 2. Sim rein ? 
+- [ ] Dual Sim - 2. Sim rein ? 
 - ms auth Creds
-- switch 
-- 
+- [ ] switch 
+- [ ] termux + git sync
+- [ ] obsidian 
+- [ ] 
